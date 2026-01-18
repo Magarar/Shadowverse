@@ -1,0 +1,1330 @@
+﻿2025-11-29 10:44:27.712 [INFO] Begin to build package : DefaultPackage by ScriptableBuildPipeline
+2025-11-29 10:44:27.712 [INFO] --------------------------------------------->TaskPrepare<--------------------------------------------
+2025-11-29 10:44:27.926 [INFO] Delete package root directory: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage
+2025-11-29 10:44:27.927 [INFO] Create pipeline output directory: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage/OutputCache
+2025-11-29 10:44:27.927 [INFO] TaskPrepare It takes 0 seconds in total
+2025-11-29 10:44:27.927 [INFO] --------------------------------------------->TaskGetBuildMap<--------------------------------------------
+2025-11-29 10:44:28.170 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/115981907_qe1-1-192.mp3
+2025-11-29 10:44:28.170 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/bear.png
+2025-11-29 10:44:28.171 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/cockatoo.png
+2025-11-29 10:44:28.171 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/falcon.png
+2025-11-29 10:44:28.171 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/horse.png
+2025-11-29 10:44:28.171 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/lion.png
+2025-11-29 10:44:28.172 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/lizard.png
+2025-11-29 10:44:28.172 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/moose.png
+2025-11-29 10:44:28.172 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/squirrel.png
+2025-11-29 10:44:28.172 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/turtle.png
+2025-11-29 10:44:28.172 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/unknow.png
+2025-11-29 10:44:28.173 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/unknown2.png
+2025-11-29 10:44:28.173 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Avatar/wolf.png
+2025-11-29 10:44:28.173 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Backgrounds/Background_02.png
+2025-11-29 10:44:28.173 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Backgrounds/Background_03.png
+2025-11-29 10:44:28.175 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Backgrounds/Background_04.png
+2025-11-29 10:44:28.175 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Backgrounds/Background_05.png
+2025-11-29 10:44:28.175 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Background_02.png
+2025-11-29 10:44:28.176 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Background_03.png
+2025-11-29 10:44:28.176 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_01.png
+2025-11-29 10:44:28.176 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_02.png
+2025-11-29 10:44:28.176 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_03.png
+2025-11-29 10:44:28.177 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_04.png
+2025-11-29 10:44:28.177 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_05.png
+2025-11-29 10:44:28.177 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_06.png
+2025-11-29 10:44:28.177 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_07.png
+2025-11-29 10:44:28.178 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_08.png
+2025-11-29 10:44:28.178 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_09.png
+2025-11-29 10:44:28.178 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_10.png
+2025-11-29 10:44:28.178 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_11.png
+2025-11-29 10:44:28.178 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_12.png
+2025-11-29 10:44:28.179 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_13.png
+2025-11-29 10:44:28.179 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_14.png
+2025-11-29 10:44:28.180 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_15.png
+2025-11-29 10:44:28.180 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_16.png
+2025-11-29 10:44:28.180 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_17.png
+2025-11-29 10:44:28.181 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_18.png
+2025-11-29 10:44:28.181 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_20.png
+2025-11-29 10:44:28.181 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_21.png
+2025-11-29 10:44:28.181 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_22.png
+2025-11-29 10:44:28.182 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_1.png
+2025-11-29 10:44:28.182 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2.png
+2025-11-29 10:44:28.182 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2_BASIC_Common.png
+2025-11-29 10:44:28.183 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2_BASIC_Legendary.png
+2025-11-29 10:44:28.183 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2_BASIC_Rare.png
+2025-11-29 10:44:28.183 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2_BASIC_Uncommon.png
+2025-11-29 10:44:28.183 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2_GOLD.png
+2025-11-29 10:44:28.183 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2_NoSkull.png
+2025-11-29 10:44:28.184 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_Layer_2_NoSkull_GOLD.png
+2025-11-29 10:44:28.184 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_OnTable_1.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_OnTable_1_Gold.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_OnTable_2.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_OnTable_2_Gold.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_skin.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_skin2.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_skin3.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_skin_Gold.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_skin_Gold2.png
+2025-11-29 10:44:28.185 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Cards/Card_skin_Gold3.png
+2025-11-29 10:44:28.187 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Demo.unity
+2025-11-29 10:44:28.187 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Action_Back.png
+2025-11-29 10:44:28.188 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Action_Exit.png
+2025-11-29 10:44:28.188 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Action_Lock.png
+2025-11-29 10:44:28.188 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Action_Ok.png
+2025-11-29 10:44:28.188 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Action_Pause.png
+2025-11-29 10:44:28.188 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/All_files.png
+2025-11-29 10:44:28.189 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Arrow_01.png
+2025-11-29 10:44:28.189 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Arrow_02.png
+2025-11-29 10:44:28.190 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Background_01.png
+2025-11-29 10:44:28.190 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Background_02.png
+2025-11-29 10:44:28.190 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Background_03.png
+2025-11-29 10:44:28.190 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Long_Off.png
+2025-11-29 10:44:28.190 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Long_Off2.png
+2025-11-29 10:44:28.191 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Long_On.png
+2025-11-29 10:44:28.191 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Long_On2.png
+2025-11-29 10:44:28.191 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Medium_3.png
+2025-11-29 10:44:28.191 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Medium_Off.png
+2025-11-29 10:44:28.192 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Medium_On.png
+2025-11-29 10:44:28.193 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Short_Off.png
+2025-11-29 10:44:28.193 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Short_On.png
+2025-11-29 10:44:28.193 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Tiny_Off.png
+2025-11-29 10:44:28.194 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Button_Tiny_On.png
+2025-11-29 10:44:28.194 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Card_Name_Bar.png
+2025-11-29 10:44:28.195 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Card_Name_Bar_G.png
+2025-11-29 10:44:28.195 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_01.png
+2025-11-29 10:44:28.195 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_02.png
+2025-11-29 10:44:28.195 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_03.png
+2025-11-29 10:44:28.196 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_04.png
+2025-11-29 10:44:28.196 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_BarLeft.png
+2025-11-29 10:44:28.197 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_BarLeft_G.png
+2025-11-29 10:44:28.197 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_BarRight.png
+2025-11-29 10:44:28.197 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_BarRight_G.png
+2025-11-29 10:44:28.197 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Button.png
+2025-11-29 10:44:28.197 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Button_G.png
+2025-11-29 10:44:28.197 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Button_On.png
+2025-11-29 10:44:28.198 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Button_On_G.png
+2025-11-29 10:44:28.198 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Hero_Backframe.png
+2025-11-29 10:44:28.199 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Hero_Backframe_B.png
+2025-11-29 10:44:28.199 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Hero_Backframe_G.png
+2025-11-29 10:44:28.199 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Hero_frame.png
+2025-11-29 10:44:28.199 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Hero_frame_B.png
+2025-11-29 10:44:28.200 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Desk_Hero_frame_G.png
+2025-11-29 10:44:28.200 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Dialog_bar.png
+2025-11-29 10:44:28.200 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Flag_01.png
+2025-11-29 10:44:28.200 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Flag_01_Red.png
+2025-11-29 10:44:28.201 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Flag_02.png
+2025-11-29 10:44:28.201 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Flag_02_Red.png
+2025-11-29 10:44:28.201 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Frame_01.png
+2025-11-29 10:44:28.201 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Frame_01_G.png
+2025-11-29 10:44:28.201 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Frame_02.png
+2025-11-29 10:44:28.202 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Frame_02_back.png
+2025-11-29 10:44:28.202 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Frame_03.png
+2025-11-29 10:44:28.202 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Frame_03_back.png
+2025-11-29 10:44:28.202 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/frame_hori.png
+2025-11-29 10:44:28.203 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/frame_left_bot.png
+2025-11-29 10:44:28.203 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/frame_left_top.png
+2025-11-29 10:44:28.204 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/frame_right_bot.png
+2025-11-29 10:44:28.204 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/frame_right_top.png
+2025-11-29 10:44:28.204 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/frame_vert.png
+2025-11-29 10:44:28.204 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Gem_1.png
+2025-11-29 10:44:28.205 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Gem_2.png
+2025-11-29 10:44:28.205 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Gem_3.png
+2025-11-29 10:44:28.205 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Gems.png
+2025-11-29 10:44:28.207 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Gold.png
+2025-11-29 10:44:28.207 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Gold_Money.png
+2025-11-29 10:44:28.207 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/HP_button_1.png
+2025-11-29 10:44:28.207 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/HP_button_2.png
+2025-11-29 10:44:28.207 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/HP_button_3.png
+2025-11-29 10:44:28.208 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/HP_button_part1.png
+2025-11-29 10:44:28.208 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/HP_button_part2.png
+2025-11-29 10:44:28.209 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Icon_Arrows.png
+2025-11-29 10:44:28.209 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Icon_Attack.png
+2025-11-29 10:44:28.209 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Icon_Book.png
+2025-11-29 10:44:28.209 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Icon_Crown.png
+2025-11-29 10:44:28.210 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Icon_Heart.png
+2025-11-29 10:44:28.210 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Icon_Staff.png
+2025-11-29 10:44:28.210 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Line_Button_long.png
+2025-11-29 10:44:28.210 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Line_Button_long_G.png
+2025-11-29 10:44:28.211 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Line_Button_Medium.png
+2025-11-29 10:44:28.211 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Line_Button_Medium_G.png
+2025-11-29 10:44:28.211 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Options_bar_line.png
+2025-11-29 10:44:28.211 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Options_bar_medium1.png
+2025-11-29 10:44:28.211 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Options_bar_medium2.png
+2025-11-29 10:44:28.211 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Options_bar_medium_line.png
+2025-11-29 10:44:28.212 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Options_bar_tiny1.png
+2025-11-29 10:44:28.212 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Options_bar_tiny2.png
+2025-11-29 10:44:28.213 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Options_bar_tiny_line.png
+2025-11-29 10:44:28.213 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Pipe.png
+2025-11-29 10:44:28.213 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Bronze.png
+2025-11-29 10:44:28.213 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Bronze_No_flag.png
+2025-11-29 10:44:28.213 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Gold.png
+2025-11-29 10:44:28.213 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Gold_No_flag.png
+2025-11-29 10:44:28.214 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_insideback.png
+2025-11-29 10:44:28.214 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Platinum.png
+2025-11-29 10:44:28.214 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Platinum_No_flag.png
+2025-11-29 10:44:28.215 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Silver.png
+2025-11-29 10:44:28.215 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rank_Silver_No_flag.png
+2025-11-29 10:44:28.216 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rotate_bar.png
+2025-11-29 10:44:28.216 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rotate_bar_Button_long.png
+2025-11-29 10:44:28.216 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Rotate_bar_Button_tiny.png
+2025-11-29 10:44:28.216 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_background.png
+2025-11-29 10:44:28.217 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_attack.png
+2025-11-29 10:44:28.217 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_attack2.png
+2025-11-29 10:44:28.217 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_attack2_G.png
+2025-11-29 10:44:28.217 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_exit.png
+2025-11-29 10:44:28.218 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_Ok.png
+2025-11-29 10:44:28.218 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny.png
+2025-11-29 10:44:28.218 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny2.png
+2025-11-29 10:44:28.218 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny3.png
+2025-11-29 10:44:28.219 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny4.png
+2025-11-29 10:44:28.219 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny4_Back.png
+2025-11-29 10:44:28.219 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny4_Exit.png
+2025-11-29 10:44:28.219 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny4_Off.png
+2025-11-29 10:44:28.219 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny4_Ok.png
+2025-11-29 10:44:28.219 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny4_Stop.png
+2025-11-29 10:44:28.220 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_button_tiny_off.png
+2025-11-29 10:44:28.220 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_frame_01.png
+2025-11-29 10:44:28.220 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_frame_02.png
+2025-11-29 10:44:28.220 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_frame_03.png
+2025-11-29 10:44:28.220 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_frame_04.png
+2025-11-29 10:44:28.220 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_frame_05.png
+2025-11-29 10:44:28.222 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Round_frame_06.png
+2025-11-29 10:44:28.222 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Shield_button_1.png
+2025-11-29 10:44:28.223 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Shield_button_2.png
+2025-11-29 10:44:28.223 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Shield_button_part1.png
+2025-11-29 10:44:28.223 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Shield_button_part2.png
+2025-11-29 10:44:28.223 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Star_button.png
+2025-11-29 10:44:28.224 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Star_button2.png
+2025-11-29 10:44:28.224 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Stripes.png
+2025-11-29 10:44:28.224 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Win_bar.png
+2025-11-29 10:44:28.224 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/Win_bar_s.png
+2025-11-29 10:44:28.225 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Card_game_GUI/Parts/winning_decorations.png
+2025-11-29 10:44:28.225 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/cardback_circle.png
+2025-11-29 10:44:28.226 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/cardback_diamond.png
+2025-11-29 10:44:28.226 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/cardback_gold.png
+2025-11-29 10:44:28.226 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/deck_circle.png
+2025-11-29 10:44:28.226 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/deck_diamond.png
+2025-11-29 10:44:28.226 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/deck_gold.png
+2025-11-29 10:44:28.227 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/deck_silver.png
+2025-11-29 10:44:28.227 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cardbacks/pack_gold.png
+2025-11-29 10:44:28.227 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/amulet_peculiar.png
+2025-11-29 10:44:28.227 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/amulet_silver.png
+2025-11-29 10:44:28.227 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/spell_peculiar.png
+2025-11-29 10:44:28.227 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/unit_brone.png
+2025-11-29 10:44:28.228 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/unit_gold.png
+2025-11-29 10:44:28.228 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/unit_legend.png
+2025-11-29 10:44:28.228 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/unit_peculiar.png
+2025-11-29 10:44:28.228 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardBoard/unit_silver.png
+2025-11-29 10:44:28.229 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/aerial_strike.png
+2025-11-29 10:44:28.229 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/armageddon.png
+2025-11-29 10:44:28.230 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/armored_beast.png
+2025-11-29 10:44:28.230 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10001110.png
+2025-11-29 10:44:28.230 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10001111.png
+2025-11-29 10:44:28.230 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10001120.png
+2025-11-29 10:44:28.232 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10001121.png
+2025-11-29 10:44:28.232 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10001130.png
+2025-11-29 10:44:28.232 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10001131.png
+2025-11-29 10:44:28.232 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10001210.png
+2025-11-29 10:44:28.232 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10002110.png
+2025-11-29 10:44:28.233 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10002111.png
+2025-11-29 10:44:28.233 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10002120.png
+2025-11-29 10:44:28.234 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10002121.png
+2025-11-29 10:44:28.234 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10002210.png
+2025-11-29 10:44:28.234 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10011110.png
+2025-11-29 10:44:28.235 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10011111.png
+2025-11-29 10:44:28.235 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10011120.png
+2025-11-29 10:44:28.235 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10011121.png
+2025-11-29 10:44:28.235 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10011130.png
+2025-11-29 10:44:28.235 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10011131.png
+2025-11-29 10:44:28.235 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10011210.png
+2025-11-29 10:44:28.235 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10012110.png
+2025-11-29 10:44:28.236 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10012111.png
+2025-11-29 10:44:28.236 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10012120.png
+2025-11-29 10:44:28.237 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10012121.png
+2025-11-29 10:44:28.237 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10012310.png
+2025-11-29 10:44:28.237 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10022210.png
+2025-11-29 10:44:28.237 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10031110.png
+2025-11-29 10:44:28.238 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10031111.png
+2025-11-29 10:44:28.238 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10031210.png
+2025-11-29 10:44:28.238 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10031310.png
+2025-11-29 10:44:28.238 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10031320.png
+2025-11-29 10:44:28.238 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10032110.png
+2025-11-29 10:44:28.238 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10032111.png
+2025-11-29 10:44:28.238 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10032120.png
+2025-11-29 10:44:28.239 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10032121.png
+2025-11-29 10:44:28.239 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10032310.png
+2025-11-29 10:44:28.239 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10041120.png
+2025-11-29 10:44:28.239 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10041121.png
+2025-11-29 10:44:28.239 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10041130.png
+2025-11-29 10:44:28.239 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10041131.png
+2025-11-29 10:44:28.241 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10041310.png
+2025-11-29 10:44:28.241 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10042110.png
+2025-11-29 10:44:28.241 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10042111.png
+2025-11-29 10:44:28.242 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10042120.png
+2025-11-29 10:44:28.242 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10042121.png
+2025-11-29 10:44:28.242 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10051110.png
+2025-11-29 10:44:28.242 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10051111.png
+2025-11-29 10:44:28.242 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10051120.png
+2025-11-29 10:44:28.243 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10051121.png
+2025-11-29 10:44:28.243 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10051130.png
+2025-11-29 10:44:28.243 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10051131.png
+2025-11-29 10:44:28.244 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10051310.png
+2025-11-29 10:44:28.244 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10052110.png
+2025-11-29 10:44:28.244 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10052111.png
+2025-11-29 10:44:28.244 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10052120.png
+2025-11-29 10:44:28.244 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10052121.png
+2025-11-29 10:44:28.244 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10052310.png
+2025-11-29 10:44:28.244 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10061110.png
+2025-11-29 10:44:28.246 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10061111.png
+2025-11-29 10:44:28.246 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10061120.png
+2025-11-29 10:44:28.246 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10061121.png
+2025-11-29 10:44:28.246 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10061130.png
+2025-11-29 10:44:28.246 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10061131.png
+2025-11-29 10:44:28.247 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10061210.png
+2025-11-29 10:44:28.247 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10062110.png
+2025-11-29 10:44:28.247 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10062111.png
+2025-11-29 10:44:28.248 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10062120.png
+2025-11-29 10:44:28.248 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10062121.png
+2025-11-29 10:44:28.248 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10062210.png
+2025-11-29 10:44:28.248 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10071110.png
+2025-11-29 10:44:28.249 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10071111.png
+2025-11-29 10:44:28.249 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10071120.png
+2025-11-29 10:44:28.249 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10071121.png
+2025-11-29 10:44:28.249 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10071130.png
+2025-11-29 10:44:28.250 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10071131.png
+2025-11-29 10:44:28.250 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10071310.png
+2025-11-29 10:44:28.251 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10072110.png
+2025-11-29 10:44:28.251 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10072111.png
+2025-11-29 10:44:28.251 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10072120.png
+2025-11-29 10:44:28.251 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10072121.png
+2025-11-29 10:44:28.251 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/10072210.png
+2025-11-29 10:44:28.252 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/Skins/70031310.png
+2025-11-29 10:44:28.252 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/Skins/70042310.png
+2025-11-29 10:44:28.252 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/Skins/70071110.png
+2025-11-29 10:44:28.252 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Basic/Skins/70071111.png
+2025-11-29 10:44:28.252 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/bay.png
+2025-11-29 10:44:28.252 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/bear.png
+2025-11-29 10:44:28.254 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/blank_blue.png
+2025-11-29 10:44:28.254 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/blank_green.png
+2025-11-29 10:44:28.254 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/blank_red.png
+2025-11-29 10:44:28.254 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/bull.png
+2025-11-29 10:44:28.254 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/cave.png
+2025-11-29 10:44:28.254 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/coin.png
+2025-11-29 10:44:28.255 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/crab.png
+2025-11-29 10:44:28.256 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/dragon_blue.png
+2025-11-29 10:44:28.256 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/dragon_egg.png
+2025-11-29 10:44:28.256 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/dragon_green.png
+2025-11-29 10:44:28.256 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/dragon_red.png
+2025-11-29 10:44:28.256 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/eagle.png
+2025-11-29 10:44:28.257 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/eel.png
+2025-11-29 10:44:28.257 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/extinct.png
+2025-11-29 10:44:28.257 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/fire_chicken.png
+2025-11-29 10:44:28.257 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/fire_element.png
+2025-11-29 10:44:28.258 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/fire_horse.png
+2025-11-29 10:44:28.258 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/fire_projectiles.png
+2025-11-29 10:44:28.258 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/fire_sword.png
+2025-11-29 10:44:28.258 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/firefox.png
+2025-11-29 10:44:28.259 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/fish.png
+2025-11-29 10:44:28.259 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/flood.png
+2025-11-29 10:44:28.259 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/frog.png
+2025-11-29 10:44:28.259 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/furious_wolf.png
+2025-11-29 10:44:28.260 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/gorilla.png
+2025-11-29 10:44:28.260 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/hedgehog.png
+2025-11-29 10:44:28.261 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10301110.png
+2025-11-29 10:44:28.261 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10301111.png
+2025-11-29 10:44:28.261 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10301310.png
+2025-11-29 10:44:28.262 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10302110.png
+2025-11-29 10:44:28.262 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10302111.png
+2025-11-29 10:44:28.262 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10303110.png
+2025-11-29 10:44:28.262 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10303111.png
+2025-11-29 10:44:28.262 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10303210.png
+2025-11-29 10:44:28.263 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10304110.png
+2025-11-29 10:44:28.263 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10304111.png
+2025-11-29 10:44:28.263 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10304120.png
+2025-11-29 10:44:28.263 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10304121.png
+2025-11-29 10:44:28.263 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10311110.png
+2025-11-29 10:44:28.265 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10311111.png
+2025-11-29 10:44:28.265 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10311120.png
+2025-11-29 10:44:28.265 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10311121.png
+2025-11-29 10:44:28.265 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10311310.png
+2025-11-29 10:44:28.265 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10312110.png
+2025-11-29 10:44:28.266 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10312111.png
+2025-11-29 10:44:28.266 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10312120.png
+2025-11-29 10:44:28.266 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10312121.png
+2025-11-29 10:44:28.266 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10312210.png
+2025-11-29 10:44:28.267 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10313110.png
+2025-11-29 10:44:28.267 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10313111.png
+2025-11-29 10:44:28.267 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10313310.png
+2025-11-29 10:44:28.267 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10314110.png
+2025-11-29 10:44:28.267 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10314111.png
+2025-11-29 10:44:28.269 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10314120.png
+2025-11-29 10:44:28.269 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10314121.png
+2025-11-29 10:44:28.269 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10321110.png
+2025-11-29 10:44:28.269 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10321111.png
+2025-11-29 10:44:28.269 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10321120.png
+2025-11-29 10:44:28.270 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10321121.png
+2025-11-29 10:44:28.270 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10321310.png
+2025-11-29 10:44:28.270 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10322110.png
+2025-11-29 10:44:28.270 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10322111.png
+2025-11-29 10:44:28.270 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10322120.png
+2025-11-29 10:44:28.270 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10322121.png
+2025-11-29 10:44:28.271 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10322210.png
+2025-11-29 10:44:28.271 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10323110.png
+2025-11-29 10:44:28.271 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10323111.png
+2025-11-29 10:44:28.271 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10323310.png
+2025-11-29 10:44:28.272 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10324110.png
+2025-11-29 10:44:28.272 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10324111.png
+2025-11-29 10:44:28.273 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10324120.png
+2025-11-29 10:44:28.273 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10324121.png
+2025-11-29 10:44:28.273 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10331110.png
+2025-11-29 10:44:28.273 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10331111.png
+2025-11-29 10:44:28.273 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10331120.png
+2025-11-29 10:44:28.274 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10331121.png
+2025-11-29 10:44:28.274 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10331310.png
+2025-11-29 10:44:28.275 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10332110.png
+2025-11-29 10:44:28.275 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10332111.png
+2025-11-29 10:44:28.275 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10332210.png
+2025-11-29 10:44:28.275 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10332310.png
+2025-11-29 10:44:28.275 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10333110.png
+2025-11-29 10:44:28.276 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10333111.png
+2025-11-29 10:44:28.276 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10333310.png
+2025-11-29 10:44:28.276 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10334110.png
+2025-11-29 10:44:28.276 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10334111.png
+2025-11-29 10:44:28.276 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10334120.png
+2025-11-29 10:44:28.276 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10334121.png
+2025-11-29 10:44:28.278 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10341110.png
+2025-11-29 10:44:28.278 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10341111.png
+2025-11-29 10:44:28.278 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10341120.png
+2025-11-29 10:44:28.278 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10341121.png
+2025-11-29 10:44:28.278 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10341310.png
+2025-11-29 10:44:28.278 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10342110.png
+2025-11-29 10:44:28.279 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10342111.png
+2025-11-29 10:44:28.279 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10342210.png
+2025-11-29 10:44:28.280 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10343110.png
+2025-11-29 10:44:28.280 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10343111.png
+2025-11-29 10:44:28.280 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10343310.png
+2025-11-29 10:44:28.281 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10344110.png
+2025-11-29 10:44:28.281 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10344111.png
+2025-11-29 10:44:28.281 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10344120.png
+2025-11-29 10:44:28.281 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10344121.png
+2025-11-29 10:44:28.281 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10351110.png
+2025-11-29 10:44:28.281 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10351111.png
+2025-11-29 10:44:28.281 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10351120.png
+2025-11-29 10:44:28.282 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10351121.png
+2025-11-29 10:44:28.282 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10351310.png
+2025-11-29 10:44:28.282 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10352110.png
+2025-11-29 10:44:28.282 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10352111.png
+2025-11-29 10:44:28.282 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10352120.png
+2025-11-29 10:44:28.282 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10352121.png
+2025-11-29 10:44:28.284 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10352210.png
+2025-11-29 10:44:28.284 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10353110.png
+2025-11-29 10:44:28.284 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10353111.png
+2025-11-29 10:44:28.284 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10353310.png
+2025-11-29 10:44:28.285 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10354110.png
+2025-11-29 10:44:28.285 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10354111.png
+2025-11-29 10:44:28.285 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10354120.png
+2025-11-29 10:44:28.285 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10354121.png
+2025-11-29 10:44:28.286 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10361110.png
+2025-11-29 10:44:28.286 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10361111.png
+2025-11-29 10:44:28.286 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10361120.png
+2025-11-29 10:44:28.286 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10361121.png
+2025-11-29 10:44:28.287 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10361310.png
+2025-11-29 10:44:28.287 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10362110.png
+2025-11-29 10:44:28.287 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10362111.png
+2025-11-29 10:44:28.287 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10362210.png
+2025-11-29 10:44:28.287 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10362220.png
+2025-11-29 10:44:28.288 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10363110.png
+2025-11-29 10:44:28.289 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10363111.png
+2025-11-29 10:44:28.289 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10363210.png
+2025-11-29 10:44:28.289 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10364110.png
+2025-11-29 10:44:28.289 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10364111.png
+2025-11-29 10:44:28.289 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10364120.png
+2025-11-29 10:44:28.289 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10364121.png
+2025-11-29 10:44:28.290 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10371110.png
+2025-11-29 10:44:28.290 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10371120.png
+2025-11-29 10:44:28.290 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10371121.png
+2025-11-29 10:44:28.290 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10371310.png
+2025-11-29 10:44:28.291 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10372110.png
+2025-11-29 10:44:28.291 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10372111.png
+2025-11-29 10:44:28.292 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10372120.png
+2025-11-29 10:44:28.292 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10372121.png
+2025-11-29 10:44:28.292 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10372210.png
+2025-11-29 10:44:28.292 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10373110.png
+2025-11-29 10:44:28.293 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10373111.png
+2025-11-29 10:44:28.293 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10373310.png
+2025-11-29 10:44:28.293 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10374110.png
+2025-11-29 10:44:28.294 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10374111(1).png
+2025-11-29 10:44:28.294 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10374111.png
+2025-11-29 10:44:28.294 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10374120.png
+2025-11-29 10:44:28.294 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/10374121.png
+2025-11-29 10:44:28.295 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70324110.png
+2025-11-29 10:44:28.295 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70324111.png
+2025-11-29 10:44:28.295 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70333310.png
+2025-11-29 10:44:28.296 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70344120.png
+2025-11-29 10:44:28.296 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70344121.png
+2025-11-29 10:44:28.296 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70373310.png
+2025-11-29 10:44:28.296 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70374120.png
+2025-11-29 10:44:28.296 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Heirs of the Omen/Skins/70374121.png
+2025-11-29 10:44:28.296 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/hell_hound.png
+2025-11-29 10:44:28.297 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/hibernate.png
+2025-11-29 10:44:28.298 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/hot_stones.png
+2025-11-29 10:44:28.298 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/imp.png
+2025-11-29 10:44:28.298 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10201110.png
+2025-11-29 10:44:28.299 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10201111.png
+2025-11-29 10:44:28.299 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10201310.png
+2025-11-29 10:44:28.299 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10202110.png
+2025-11-29 10:44:28.299 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10202111.png
+2025-11-29 10:44:28.299 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10203110.png
+2025-11-29 10:44:28.300 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10203111.png
+2025-11-29 10:44:28.300 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10203120.png
+2025-11-29 10:44:28.300 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10203121.png
+2025-11-29 10:44:28.300 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10204110.png
+2025-11-29 10:44:28.300 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10204111.png
+2025-11-29 10:44:28.300 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10204120.png
+2025-11-29 10:44:28.302 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10204121.png
+2025-11-29 10:44:28.302 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10211110.png
+2025-11-29 10:44:28.302 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10211111.png
+2025-11-29 10:44:28.302 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10211120.png
+2025-11-29 10:44:28.302 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10211121.png
+2025-11-29 10:44:28.302 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10211310.png
+2025-11-29 10:44:28.303 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10212110.png
+2025-11-29 10:44:28.303 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10212111.png
+2025-11-29 10:44:28.303 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10212120.png
+2025-11-29 10:44:28.303 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10212121.png
+2025-11-29 10:44:28.303 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10212310.png
+2025-11-29 10:44:28.305 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10213110.png
+2025-11-29 10:44:28.305 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10213111.png
+2025-11-29 10:44:28.305 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10213310.png
+2025-11-29 10:44:28.305 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10214110.png
+2025-11-29 10:44:28.305 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10214111.png
+2025-11-29 10:44:28.305 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10214120.png
+2025-11-29 10:44:28.306 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10214121.png
+2025-11-29 10:44:28.306 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10221110.png
+2025-11-29 10:44:28.306 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10221111.png
+2025-11-29 10:44:28.306 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10221120.png
+2025-11-29 10:44:28.306 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10221121.png
+2025-11-29 10:44:28.307 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10221310.png
+2025-11-29 10:44:28.307 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10222110.png
+2025-11-29 10:44:28.307 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10222111.png
+2025-11-29 10:44:28.307 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10222120.png
+2025-11-29 10:44:28.307 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10222121.png
+2025-11-29 10:44:28.309 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10222310.png
+2025-11-29 10:44:28.309 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10223110.png
+2025-11-29 10:44:28.309 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10223111.png
+2025-11-29 10:44:28.309 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10223120.png
+2025-11-29 10:44:28.309 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10223121.png
+2025-11-29 10:44:28.310 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10224110.png
+2025-11-29 10:44:28.310 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10224111.png
+2025-11-29 10:44:28.310 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10224120.png
+2025-11-29 10:44:28.310 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10224121.png
+2025-11-29 10:44:28.310 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10231110.png
+2025-11-29 10:44:28.310 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10231111.png
+2025-11-29 10:44:28.310 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10231120.png
+2025-11-29 10:44:28.311 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10231121.png
+2025-11-29 10:44:28.311 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10231310.png
+2025-11-29 10:44:28.312 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10232110.png
+2025-11-29 10:44:28.312 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10232111.png
+2025-11-29 10:44:28.312 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10232120.png
+2025-11-29 10:44:28.312 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10232121.png
+2025-11-29 10:44:28.312 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10232310.png
+2025-11-29 10:44:28.312 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10233110.png
+2025-11-29 10:44:28.313 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10233111.png
+2025-11-29 10:44:28.313 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10233310.png
+2025-11-29 10:44:28.313 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10234110.png
+2025-11-29 10:44:28.313 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10234111.png
+2025-11-29 10:44:28.314 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10234120.png
+2025-11-29 10:44:28.314 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10234121.png
+2025-11-29 10:44:28.315 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10241110.png
+2025-11-29 10:44:28.315 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10241111.png
+2025-11-29 10:44:28.315 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10242110.png
+2025-11-29 10:44:28.315 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10242111.png
+2025-11-29 10:44:28.315 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10242210.png
+2025-11-29 10:44:28.315 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10243110.png
+2025-11-29 10:44:28.316 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10243111.png
+2025-11-29 10:44:28.316 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10243310.png
+2025-11-29 10:44:28.317 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10244110.png
+2025-11-29 10:44:28.317 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10244111.png
+2025-11-29 10:44:28.317 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10251110.png
+2025-11-29 10:44:28.317 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10251111.png
+2025-11-29 10:44:28.318 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10251120.png
+2025-11-29 10:44:28.318 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10251121.png
+2025-11-29 10:44:28.318 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10251310.png
+2025-11-29 10:44:28.318 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10252110.png
+2025-11-29 10:44:28.318 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10252111.png
+2025-11-29 10:44:28.319 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10252120.png
+2025-11-29 10:44:28.319 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10252121.png
+2025-11-29 10:44:28.319 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10252310.png
+2025-11-29 10:44:28.319 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10253110.png
+2025-11-29 10:44:28.319 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10253111.png
+2025-11-29 10:44:28.320 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10253120.png
+2025-11-29 10:44:28.320 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10253121.png
+2025-11-29 10:44:28.320 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10254110.png
+2025-11-29 10:44:28.320 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10254111.png
+2025-11-29 10:44:28.321 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10254120.png
+2025-11-29 10:44:28.321 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10254121.png
+2025-11-29 10:44:28.322 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10261110.png
+2025-11-29 10:44:28.322 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10261111.png
+2025-11-29 10:44:28.322 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10261120.png
+2025-11-29 10:44:28.323 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10261121.png
+2025-11-29 10:44:28.323 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10261210.png
+2025-11-29 10:44:28.323 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10262110.png
+2025-11-29 10:44:28.323 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10262111.png
+2025-11-29 10:44:28.324 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10262120.png
+2025-11-29 10:44:28.324 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10262121.png
+2025-11-29 10:44:28.324 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10262310.png
+2025-11-29 10:44:28.324 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10263110.png
+2025-11-29 10:44:28.324 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10263111.png
+2025-11-29 10:44:28.324 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10263310.png
+2025-11-29 10:44:28.325 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10264110.png
+2025-11-29 10:44:28.325 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10264111.png
+2025-11-29 10:44:28.326 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10264120.png
+2025-11-29 10:44:28.326 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10264121.png
+2025-11-29 10:44:28.326 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10271110.png
+2025-11-29 10:44:28.326 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10271111.png
+2025-11-29 10:44:28.327 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10271120.png
+2025-11-29 10:44:28.327 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10271121.png
+2025-11-29 10:44:28.327 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10271210.png
+2025-11-29 10:44:28.327 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10272110.png
+2025-11-29 10:44:28.327 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10272111.png
+2025-11-29 10:44:28.328 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10272120.png
+2025-11-29 10:44:28.328 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10272121.png
+2025-11-29 10:44:28.328 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10272310.png
+2025-11-29 10:44:28.328 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10273110.png
+2025-11-29 10:44:28.328 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10273111.png
+2025-11-29 10:44:28.330 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10273310.png
+2025-11-29 10:44:28.330 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10274110.png
+2025-11-29 10:44:28.330 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10274111.png
+2025-11-29 10:44:28.330 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10274120.png
+2025-11-29 10:44:28.330 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/10274121.png
+2025-11-29 10:44:28.331 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70202110.png
+2025-11-29 10:44:28.331 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70202111.png
+2025-11-29 10:44:28.331 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70214110.png
+2025-11-29 10:44:28.331 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70214111.png
+2025-11-29 10:44:28.332 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70224110.png
+2025-11-29 10:44:28.332 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70224111.png
+2025-11-29 10:44:28.333 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70243110.png
+2025-11-29 10:44:28.333 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70243111.png
+2025-11-29 10:44:28.333 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70244110.png
+2025-11-29 10:44:28.333 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70244111.png
+2025-11-29 10:44:28.333 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70254120.png
+2025-11-29 10:44:28.333 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70254121.png
+2025-11-29 10:44:28.333 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70264110.png
+2025-11-29 10:44:28.334 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Infinity Evolved/Skins/70264111.png
+2025-11-29 10:44:28.334 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/jaguar.png
+2025-11-29 10:44:28.334 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/killer_whale.png
+2025-11-29 10:44:28.334 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/kraken.png
+2025-11-29 10:44:28.336 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/lava_beast.png
+2025-11-29 10:44:28.336 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/lava_snake.png
+2025-11-29 10:44:28.336 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10101110.png
+2025-11-29 10:44:28.336 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10101111.png
+2025-11-29 10:44:28.336 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10101120.png
+2025-11-29 10:44:28.336 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10101121.png
+2025-11-29 10:44:28.336 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10101310.png
+2025-11-29 10:44:28.337 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10102110.png
+2025-11-29 10:44:28.337 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10102111.png
+2025-11-29 10:44:28.337 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10102310.png
+2025-11-29 10:44:28.337 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10103110.png
+2025-11-29 10:44:28.338 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10103111.png
+2025-11-29 10:44:28.338 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10103310.png
+2025-11-29 10:44:28.339 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10104110.png
+2025-11-29 10:44:28.339 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10104111.png
+2025-11-29 10:44:28.339 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10104120.png
+2025-11-29 10:44:28.340 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10104121.png
+2025-11-29 10:44:28.340 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111110.png
+2025-11-29 10:44:28.340 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111111.png
+2025-11-29 10:44:28.341 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111120.png
+2025-11-29 10:44:28.341 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111121.png
+2025-11-29 10:44:28.341 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111130.png
+2025-11-29 10:44:28.342 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111131.png
+2025-11-29 10:44:28.342 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111140.png
+2025-11-29 10:44:28.342 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111141.png
+2025-11-29 10:44:28.342 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111150.png
+2025-11-29 10:44:28.342 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111151.png
+2025-11-29 10:44:28.343 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10111310.png
+2025-11-29 10:44:28.343 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112110.png
+2025-11-29 10:44:28.343 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112111.png
+2025-11-29 10:44:28.343 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112120.png
+2025-11-29 10:44:28.343 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112121.png
+2025-11-29 10:44:28.343 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112130.png
+2025-11-29 10:44:28.345 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112131.png
+2025-11-29 10:44:28.345 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112210.png
+2025-11-29 10:44:28.345 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10112310.png
+2025-11-29 10:44:28.345 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113110.png
+2025-11-29 10:44:28.346 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113111.png
+2025-11-29 10:44:28.346 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113120.png
+2025-11-29 10:44:28.346 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113121.png
+2025-11-29 10:44:28.347 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113130.png
+2025-11-29 10:44:28.347 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113131.png
+2025-11-29 10:44:28.347 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113140.png
+2025-11-29 10:44:28.347 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113141.png
+2025-11-29 10:44:28.348 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10113210.png
+2025-11-29 10:44:28.348 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10114110.png
+2025-11-29 10:44:28.348 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10114111.png
+2025-11-29 10:44:28.348 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10114120.png
+2025-11-29 10:44:28.348 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10114121.png
+2025-11-29 10:44:28.350 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10114130.png
+2025-11-29 10:44:28.350 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10114131.png
+2025-11-29 10:44:28.350 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121110.png
+2025-11-29 10:44:28.350 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121111.png
+2025-11-29 10:44:28.351 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121120.png
+2025-11-29 10:44:28.351 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121121.png
+2025-11-29 10:44:28.351 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121130.png
+2025-11-29 10:44:28.351 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121131.png
+2025-11-29 10:44:28.351 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121140.png
+2025-11-29 10:44:28.351 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121141.png
+2025-11-29 10:44:28.352 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10121310.png
+2025-11-29 10:44:28.352 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10123110.png
+2025-11-29 10:44:28.352 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10123111.png
+2025-11-29 10:44:28.352 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10123120.png
+2025-11-29 10:44:28.352 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10123121.png
+2025-11-29 10:44:28.353 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10123310.png
+2025-11-29 10:44:28.353 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10124110.png
+2025-11-29 10:44:28.353 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10124111.png
+2025-11-29 10:44:28.354 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10124130.png
+2025-11-29 10:44:28.354 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10124131.png
+2025-11-29 10:44:28.354 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131110.png
+2025-11-29 10:44:28.354 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131111.png
+2025-11-29 10:44:28.356 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131120.png
+2025-11-29 10:44:28.356 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131121.png
+2025-11-29 10:44:28.356 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131130.png
+2025-11-29 10:44:28.356 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131131.png
+2025-11-29 10:44:28.356 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131140.png
+2025-11-29 10:44:28.357 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131141.png
+2025-11-29 10:44:28.357 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131310.png
+2025-11-29 10:44:28.358 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10131320.png
+2025-11-29 10:44:28.358 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132110.png
+2025-11-29 10:44:28.358 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132111.png
+2025-11-29 10:44:28.358 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132120.png
+2025-11-29 10:44:28.358 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132121.png
+2025-11-29 10:44:28.358 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132130.png
+2025-11-29 10:44:28.359 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132131.png
+2025-11-29 10:44:28.359 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132310.png
+2025-11-29 10:44:28.359 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10132320.png
+2025-11-29 10:44:28.359 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133110.png
+2025-11-29 10:44:28.359 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133111.png
+2025-11-29 10:44:28.359 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133120.png
+2025-11-29 10:44:28.360 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133121.png
+2025-11-29 10:44:28.360 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133130.png
+2025-11-29 10:44:28.360 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133131.png
+2025-11-29 10:44:28.360 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133310.png
+2025-11-29 10:44:28.360 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10133320.png
+2025-11-29 10:44:28.360 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10134110.png
+2025-11-29 10:44:28.362 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10134111.png
+2025-11-29 10:44:28.362 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10134120.png
+2025-11-29 10:44:28.362 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10134121.png
+2025-11-29 10:44:28.362 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10134310.png
+2025-11-29 10:44:28.363 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10141110.png
+2025-11-29 10:44:28.363 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10141111.png
+2025-11-29 10:44:28.364 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10141120.png
+2025-11-29 10:44:28.364 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10141121.png
+2025-11-29 10:44:28.364 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10141130.png
+2025-11-29 10:44:28.364 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10141131.png
+2025-11-29 10:44:28.364 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10141310.png
+2025-11-29 10:44:28.365 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142110.png
+2025-11-29 10:44:28.365 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142111.png
+2025-11-29 10:44:28.365 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142120.png
+2025-11-29 10:44:28.365 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142121.png
+2025-11-29 10:44:28.365 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142130.png
+2025-11-29 10:44:28.365 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142131.png
+2025-11-29 10:44:28.367 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142140.png
+2025-11-29 10:44:28.367 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10142141.png
+2025-11-29 10:44:28.367 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10143130.png
+2025-11-29 10:44:28.367 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10143131.png
+2025-11-29 10:44:28.367 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10143140.png
+2025-11-29 10:44:28.368 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10143141.png
+2025-11-29 10:44:28.368 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10143210.png
+2025-11-29 10:44:28.369 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10144110.png
+2025-11-29 10:44:28.369 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10144111.png
+2025-11-29 10:44:28.369 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10144120.png
+2025-11-29 10:44:28.369 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10144121.png
+2025-11-29 10:44:28.369 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10144130.png
+2025-11-29 10:44:28.369 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10144131.png
+2025-11-29 10:44:28.370 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151110.png
+2025-11-29 10:44:28.370 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151111.png
+2025-11-29 10:44:28.370 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151120.png
+2025-11-29 10:44:28.370 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151121.png
+2025-11-29 10:44:28.370 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151130.png
+2025-11-29 10:44:28.371 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151131.png
+2025-11-29 10:44:28.371 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151140.png
+2025-11-29 10:44:28.372 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151141.png
+2025-11-29 10:44:28.372 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151150.png
+2025-11-29 10:44:28.372 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151151.png
+2025-11-29 10:44:28.372 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10151310.png
+2025-11-29 10:44:28.372 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152110.png
+2025-11-29 10:44:28.372 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152111.png
+2025-11-29 10:44:28.373 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152120.png
+2025-11-29 10:44:28.373 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152121.png
+2025-11-29 10:44:28.373 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152130.png
+2025-11-29 10:44:28.373 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152131.png
+2025-11-29 10:44:28.373 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152140.png
+2025-11-29 10:44:28.375 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152141.png
+2025-11-29 10:44:28.375 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10152210.png
+2025-11-29 10:44:28.375 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153110.png
+2025-11-29 10:44:28.375 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153111.png
+2025-11-29 10:44:28.376 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153120.png
+2025-11-29 10:44:28.376 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153121.png
+2025-11-29 10:44:28.376 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153130.png
+2025-11-29 10:44:28.376 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153131.png
+2025-11-29 10:44:28.376 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153140.png
+2025-11-29 10:44:28.376 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153141.png
+2025-11-29 10:44:28.378 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10153310.png
+2025-11-29 10:44:28.378 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10154110.png
+2025-11-29 10:44:28.378 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10154111.png
+2025-11-29 10:44:28.378 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10154120.png
+2025-11-29 10:44:28.378 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10154121.png
+2025-11-29 10:44:28.378 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10154130.png
+2025-11-29 10:44:28.380 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10154131.png
+2025-11-29 10:44:28.380 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161110.png
+2025-11-29 10:44:28.380 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161111.png
+2025-11-29 10:44:28.381 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161120.png
+2025-11-29 10:44:28.381 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161121.png
+2025-11-29 10:44:28.381 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161130.png
+2025-11-29 10:44:28.382 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161131.png
+2025-11-29 10:44:28.382 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161140.png
+2025-11-29 10:44:28.382 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161141.png
+2025-11-29 10:44:28.383 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161210.png
+2025-11-29 10:44:28.383 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10161310.png
+2025-11-29 10:44:28.383 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162110.png
+2025-11-29 10:44:28.383 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162111.png
+2025-11-29 10:44:28.383 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162120.png
+2025-11-29 10:44:28.383 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162121.png
+2025-11-29 10:44:28.383 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162130.png
+2025-11-29 10:44:28.384 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162131.png
+2025-11-29 10:44:28.384 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162210.png
+2025-11-29 10:44:28.384 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10162220.png
+2025-11-29 10:44:28.384 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163110.png
+2025-11-29 10:44:28.385 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163111.png
+2025-11-29 10:44:28.385 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163120.png
+2025-11-29 10:44:28.385 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163121.png
+2025-11-29 10:44:28.385 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163130.png
+2025-11-29 10:44:28.386 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163131.png
+2025-11-29 10:44:28.386 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163210.png
+2025-11-29 10:44:28.386 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10163220.png
+2025-11-29 10:44:28.387 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10164110.png
+2025-11-29 10:44:28.387 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10164111.png
+2025-11-29 10:44:28.387 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10164120.png
+2025-11-29 10:44:28.387 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10164121.png
+2025-11-29 10:44:28.389 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10164130.png
+2025-11-29 10:44:28.389 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10164131.png
+2025-11-29 10:44:28.389 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171110.png
+2025-11-29 10:44:28.389 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171111.png
+2025-11-29 10:44:28.390 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171120.png
+2025-11-29 10:44:28.390 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171121.png
+2025-11-29 10:44:28.390 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171130.png
+2025-11-29 10:44:28.390 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171131.png
+2025-11-29 10:44:28.390 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171140.png
+2025-11-29 10:44:28.391 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171141.png
+2025-11-29 10:44:28.391 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171310.png
+2025-11-29 10:44:28.392 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10171320.png
+2025-11-29 10:44:28.392 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172110.png
+2025-11-29 10:44:28.392 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172111.png
+2025-11-29 10:44:28.392 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172120.png
+2025-11-29 10:44:28.392 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172121.png
+2025-11-29 10:44:28.392 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172130.png
+2025-11-29 10:44:28.392 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172131.png
+2025-11-29 10:44:28.394 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172310.png
+2025-11-29 10:44:28.394 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10172320.png
+2025-11-29 10:44:28.394 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173110.png
+2025-11-29 10:44:28.394 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173111.png
+2025-11-29 10:44:28.395 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173120.png
+2025-11-29 10:44:28.395 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173121.png
+2025-11-29 10:44:28.395 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173130.png
+2025-11-29 10:44:28.396 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173131.png
+2025-11-29 10:44:28.396 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173140.png
+2025-11-29 10:44:28.396 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173141.png
+2025-11-29 10:44:28.396 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10173210.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10174110.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10174111.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10174120.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10174121.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10174130.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/10174131.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70104110.png
+2025-11-29 10:44:28.397 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70104111.png
+2025-11-29 10:44:28.399 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70111310.png
+2025-11-29 10:44:28.399 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70121110.png
+2025-11-29 10:44:28.399 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70121111.png
+2025-11-29 10:44:28.399 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70124110.png
+2025-11-29 10:44:28.400 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70124111.png
+2025-11-29 10:44:28.400 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70134310.png
+2025-11-29 10:44:28.400 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70144120.png
+2025-11-29 10:44:28.400 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70144121.png
+2025-11-29 10:44:28.400 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70153110.png
+2025-11-29 10:44:28.401 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70153111.png
+2025-11-29 10:44:28.401 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70154110.png
+2025-11-29 10:44:28.402 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70154111.png
+2025-11-29 10:44:28.402 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70161210.png
+2025-11-29 10:44:28.402 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70163130.png
+2025-11-29 10:44:28.402 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70163131.png
+2025-11-29 10:44:28.403 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70174110.png
+2025-11-29 10:44:28.403 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Legends Rise/Skins/70174111.png
+2025-11-29 10:44:28.403 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/mammoth.png
+2025-11-29 10:44:28.403 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/monkey.png
+2025-11-29 10:44:28.404 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/octopus.png
+2025-11-29 10:44:28.404 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/owl.png
+2025-11-29 10:44:28.404 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/penguin.png
+2025-11-29 10:44:28.404 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/pheonix.png
+2025-11-29 10:44:28.404 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/pheonix_egg.png
+2025-11-29 10:44:28.404 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/plant_growth.png
+2025-11-29 10:44:28.405 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/potion_blue.png
+2025-11-29 10:44:28.405 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/potion_green.png
+2025-11-29 10:44:28.405 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/potion_red.png
+2025-11-29 10:44:28.405 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/pufferfish.png
+2025-11-29 10:44:28.405 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/raccoon.png
+2025-11-29 10:44:28.405 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/reaper.png
+2025-11-29 10:44:28.407 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/ring.png
+2025-11-29 10:44:28.407 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Royal/须臾剑士_1.png
+2025-11-29 10:44:28.407 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/sasquatch.png
+2025-11-29 10:44:28.407 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/sea-storm.png
+2025-11-29 10:44:28.408 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/sea_monster.png
+2025-11-29 10:44:28.408 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/seagull.png
+2025-11-29 10:44:28.409 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/shark.png
+2025-11-29 10:44:28.409 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/shield.png
+2025-11-29 10:44:28.409 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/snake.png
+2025-11-29 10:44:28.409 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/spell_fire.png
+2025-11-29 10:44:28.410 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/spell_forest.png
+2025-11-29 10:44:28.410 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/spell_water.png
+2025-11-29 10:44:28.410 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/spirit_fire.png
+2025-11-29 10:44:28.411 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/spirit_forest.png
+2025-11-29 10:44:28.412 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/spirit_water.png
+2025-11-29 10:44:28.412 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/stomp.png
+2025-11-29 10:44:28.412 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/submerge.png
+2025-11-29 10:44:28.412 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90001110.png
+2025-11-29 10:44:28.412 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90001111.png
+2025-11-29 10:44:28.412 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90011110.png
+2025-11-29 10:44:28.414 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90011111.png
+2025-11-29 10:44:28.414 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90011310.png
+2025-11-29 10:44:28.415 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90014310.png
+2025-11-29 10:44:28.415 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90021111.png
+2025-11-29 10:44:28.415 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90031110.png
+2025-11-29 10:44:28.415 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90031111.png
+2025-11-29 10:44:28.416 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90031120.png
+2025-11-29 10:44:28.416 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90031121.png
+2025-11-29 10:44:28.416 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90031210.png
+2025-11-29 10:44:28.416 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90033310.png
+2025-11-29 10:44:28.417 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90041110.png
+2025-11-29 10:44:28.417 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90041111.png
+2025-11-29 10:44:28.417 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90041120.png
+2025-11-29 10:44:28.417 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90041121.png
+2025-11-29 10:44:28.417 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051110.png
+2025-11-29 10:44:28.419 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051111.png
+2025-11-29 10:44:28.419 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051120.png
+2025-11-29 10:44:28.419 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051121.png
+2025-11-29 10:44:28.419 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051130.png
+2025-11-29 10:44:28.420 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051131.png
+2025-11-29 10:44:28.420 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051140.png
+2025-11-29 10:44:28.420 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90051141.png
+2025-11-29 10:44:28.420 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90061110.png
+2025-11-29 10:44:28.421 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90061111.png
+2025-11-29 10:44:28.421 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90061120.png
+2025-11-29 10:44:28.421 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90061121.png
+2025-11-29 10:44:28.421 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90061130.png
+2025-11-29 10:44:28.421 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90061131.png
+2025-11-29 10:44:28.421 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90071210.png
+2025-11-29 10:44:28.422 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90071220.png
+2025-11-29 10:44:28.422 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90072110.png
+2025-11-29 10:44:28.422 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90072111.png
+2025-11-29 10:44:28.423 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90072120.png
+2025-11-29 10:44:28.423 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90072121.png
+2025-11-29 10:44:28.423 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90073110.png
+2025-11-29 10:44:28.423 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90073111.png
+2025-11-29 10:44:28.424 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90073120.png
+2025-11-29 10:44:28.424 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90073121.png
+2025-11-29 10:44:28.424 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90073130.png
+2025-11-29 10:44:28.424 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90073131.png
+2025-11-29 10:44:28.425 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90074110.png
+2025-11-29 10:44:28.425 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/Token/90074111.png
+2025-11-29 10:44:28.425 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/town_forest.png
+2025-11-29 10:44:28.425 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/town_underwater.png
+2025-11-29 10:44:28.425 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/town_volano.png
+2025-11-29 10:44:28.426 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/trap_bomb.png
+2025-11-29 10:44:28.426 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/trap_crack.png
+2025-11-29 10:44:28.426 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/trap_expode.png
+2025-11-29 10:44:28.426 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/trap_fish.png
+2025-11-29 10:44:28.426 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/trap_mine.png
+2025-11-29 10:44:28.426 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/trap_net.png
+2025-11-29 10:44:28.428 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/trap_spike.png
+2025-11-29 10:44:28.428 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/treasure.png
+2025-11-29 10:44:28.428 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/tree.png
+2025-11-29 10:44:28.428 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/turtle.png
+2025-11-29 10:44:28.429 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/unicorn.png
+2025-11-29 10:44:28.429 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/wolf.png
+2025-11-29 10:44:28.429 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/wolf_baby.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/wolf_stalker.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Cards/woodland.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/armored_beast_board.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/bay_board.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/bear_board.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/blank_blue_board.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/blank_green_board.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/blank_red_board.png
+2025-11-29 10:44:28.430 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/bull_board.png
+2025-11-29 10:44:28.432 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/cave_board.png
+2025-11-29 10:44:28.432 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/crab_board.png
+2025-11-29 10:44:28.432 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/dragon_blue_board.png
+2025-11-29 10:44:28.432 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/dragon_green_board.png
+2025-11-29 10:44:28.433 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/dragon_red_board.png
+2025-11-29 10:44:28.433 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/eagle_board.png
+2025-11-29 10:44:28.433 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/eel_board.png
+2025-11-29 10:44:28.433 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/fire_chicken_board.png
+2025-11-29 10:44:28.434 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/fire_element_board.png
+2025-11-29 10:44:28.434 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/fire_horse_board.png
+2025-11-29 10:44:28.435 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/fire_sword_board.png
+2025-11-29 10:44:28.435 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/firefox_board.png
+2025-11-29 10:44:28.435 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/fish_board.png
+2025-11-29 10:44:28.435 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/frog_board.png
+2025-11-29 10:44:28.436 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/furious_wolf_board.png
+2025-11-29 10:44:28.436 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/gorilla_board.png
+2025-11-29 10:44:28.436 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/hedgehog_board.png
+2025-11-29 10:44:28.436 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/hell_hound_board.png
+2025-11-29 10:44:28.436 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/imp_board.png
+2025-11-29 10:44:28.437 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/jaguar_board.png
+2025-11-29 10:44:28.437 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/killer_whale_board.png
+2025-11-29 10:44:28.437 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/kraken_board.png
+2025-11-29 10:44:28.438 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/lava_beast_board.png
+2025-11-29 10:44:28.438 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/lava_snake_board.png
+2025-11-29 10:44:28.438 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/mammoth_board.png
+2025-11-29 10:44:28.438 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/monkey_board.png
+2025-11-29 10:44:28.438 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/octopus_board.png
+2025-11-29 10:44:28.438 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/owl_board.png
+2025-11-29 10:44:28.440 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/penguin_board.png
+2025-11-29 10:44:28.440 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/pheonix_board.png
+2025-11-29 10:44:28.440 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/pheonix_egg_board.png
+2025-11-29 10:44:28.441 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/pufferfish_board.png
+2025-11-29 10:44:28.441 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/raccoon_board.png
+2025-11-29 10:44:28.441 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/reaper_board.png
+2025-11-29 10:44:28.441 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/ring_board.png
+2025-11-29 10:44:28.442 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/sasquatch_board.png
+2025-11-29 10:44:28.442 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/sea_monster_board.png
+2025-11-29 10:44:28.443 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/seagull_board.png
+2025-11-29 10:44:28.443 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/shark_board.png
+2025-11-29 10:44:28.443 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/shield_board.png
+2025-11-29 10:44:28.443 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/snake_board.png
+2025-11-29 10:44:28.444 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/town_forest_board.png
+2025-11-29 10:44:28.444 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/town_underwater_board.png
+2025-11-29 10:44:28.444 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/town_volcano_board.png
+2025-11-29 10:44:28.445 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/tree_board.png
+2025-11-29 10:44:28.445 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/turtle_board.png
+2025-11-29 10:44:28.445 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/unicorn_board.png
+2025-11-29 10:44:28.445 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/wolf_baby_board.png
+2025-11-29 10:44:28.445 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/wolf_board.png
+2025-11-29 10:44:28.445 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/wolf_stalker_board.png
+2025-11-29 10:44:28.446 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/CardsBoard/woodland_board.png
+2025-11-29 10:44:28.446 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/abysscraft.png
+2025-11-29 10:44:28.447 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/arrow.png
+2025-11-29 10:44:28.447 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/big_flash.png
+2025-11-29 10:44:28.448 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/card_glow.png
+2025-11-29 10:44:28.448 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/card_glow_board.png
+2025-11-29 10:44:28.448 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/card_gradient.png
+2025-11-29 10:44:28.448 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/Circle.png
+2025-11-29 10:44:28.448 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/CircleBlur.png
+2025-11-29 10:44:28.449 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/CircleFade.png
+2025-11-29 10:44:28.449 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/dice.fbx
+2025-11-29 10:44:28.449 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/dice.png
+2025-11-29 10:44:28.449 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/dice2.fbx
+2025-11-29 10:44:28.449 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/dragoncraft.png
+2025-11-29 10:44:28.451 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/fire_fx.png
+2025-11-29 10:44:28.451 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/flame.png
+2025-11-29 10:44:28.451 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/forestcraft.png
+2025-11-29 10:44:28.451 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/glow.png
+2025-11-29 10:44:28.451 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/havencraft.png
+2025-11-29 10:44:28.451 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/leaf_fx.png
+2025-11-29 10:44:28.451 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/lightning.png
+2025-11-29 10:44:28.452 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/LineFX.png
+2025-11-29 10:44:28.452 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/neutral.png
+2025-11-29 10:44:28.452 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/pack_glow.png
+2025-11-29 10:44:28.452 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/portalcraft.png
+2025-11-29 10:44:28.453 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/ray.png
+2025-11-29 10:44:28.453 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/root_entangle_fx.png
+2025-11-29 10:44:28.454 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/runecraft.png
+2025-11-29 10:44:28.454 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/shield_fx.png
+2025-11-29 10:44:28.454 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/shield_gray.png
+2025-11-29 10:44:28.455 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/slash.png
+2025-11-29 10:44:28.455 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/slash2.png
+2025-11-29 10:44:28.455 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/smoke.png
+2025-11-29 10:44:28.455 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/smoke2.png
+2025-11-29 10:44:28.456 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/splash_fx.png
+2025-11-29 10:44:28.456 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/star.png
+2025-11-29 10:44:28.456 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/star2.png
+2025-11-29 10:44:28.456 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/swordcraft.png
+2025-11-29 10:44:28.457 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/target.png
+2025-11-29 10:44:28.457 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/thorn_fx.png
+2025-11-29 10:44:28.458 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/turtle_shell.png
+2025-11-29 10:44:28.458 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/water_fx.png
+2025-11-29 10:44:28.458 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/FX/zzz.png
+2025-11-29 10:44:28.458 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/card_icon.png
+2025-11-29 10:44:28.459 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/discard_icon.png
+2025-11-29 10:44:28.459 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/secret_icon.png
+2025-11-29 10:44:28.459 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/type_fire.png
+2025-11-29 10:44:28.459 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/type_fire_off.png
+2025-11-29 10:44:28.459 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/type_forest.png
+2025-11-29 10:44:28.460 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/type_forest_off.png
+2025-11-29 10:44:28.460 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/type_water.png
+2025-11-29 10:44:28.460 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Icons/type_water_off.png
+2025-11-29 10:44:28.460 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/logo.png
+2025-11-29 10:44:28.461 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/adventure_bg.png
+2025-11-29 10:44:28.461 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/bg_menu.png
+2025-11-29 10:44:28.461 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/box1.png
+2025-11-29 10:44:28.461 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/box2.png
+2025-11-29 10:44:28.462 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/box3.png
+2025-11-29 10:44:28.462 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/collection_deck_title.png
+2025-11-29 10:44:28.462 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/collection_panel_left.png
+2025-11-29 10:44:28.462 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/collection_panel_right.png
+2025-11-29 10:44:28.462 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/collection_section.png
+2025-11-29 10:44:28.462 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/collection_section_small.png
+2025-11-29 10:44:28.463 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/friend_avatar_frame.png
+2025-11-29 10:44:28.463 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/friend_name_bar.png
+2025-11-29 10:44:28.464 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/home_panel_deck_area.png
+2025-11-29 10:44:28.464 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/home_title_bar1.png
+2025-11-29 10:44:28.464 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/home_title_bar2.png
+2025-11-29 10:44:28.465 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/home_title_bar3.png
+2025-11-29 10:44:28.465 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/home_title_bar4.png
+2025-11-29 10:44:28.465 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/leaderboard_highlight.png
+2025-11-29 10:44:28.465 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/leaderboard_line.png
+2025-11-29 10:44:28.465 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/panel_black.png
+2025-11-29 10:44:28.465 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play-turtle-off.png
+2025-11-29 10:44:28.466 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play-turtle.png
+2025-11-29 10:44:28.466 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play-wolf-off.png
+2025-11-29 10:44:28.466 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play-wolf.png
+2025-11-29 10:44:28.466 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play_horse.png
+2025-11-29 10:44:28.466 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play_horse_off.png
+2025-11-29 10:44:28.466 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play_turtle2.png
+2025-11-29 10:44:28.468 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/play_turtle2_off.png
+2025-11-29 10:44:28.468 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/player_bar_bottom.png
+2025-11-29 10:44:28.468 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/player_bar_bottom2.png
+2025-11-29 10:44:28.469 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/player_stats_box.png
+2025-11-29 10:44:28.469 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/tab_bar.png
+2025-11-29 10:44:28.469 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/tab_big_active.png
+2025-11-29 10:44:28.470 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/tab_big_inactive.png
+2025-11-29 10:44:28.470 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/tab_small_active.png
+2025-11-29 10:44:28.470 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/tab_small_inactive.png
+2025-11-29 10:44:28.470 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/title_bar.png
+2025-11-29 10:44:28.471 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/top_bar1.png
+2025-11-29 10:44:28.471 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/top_bar2.png
+2025-11-29 10:44:28.471 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/Menu/top_bar_line.png
+2025-11-29 10:44:28.471 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Daemon_Style_Color_1.png
+2025-11-29 10:44:28.472 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Daemon_Style_Color_2.png
+2025-11-29 10:44:28.472 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Elf_Style_Color_1.png
+2025-11-29 10:44:28.472 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Elf_Style_Color_2.png
+2025-11-29 10:44:28.472 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Halloween_Style_Color_1.png
+2025-11-29 10:44:28.473 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Halloween_Style_Color_2.png
+2025-11-29 10:44:28.473 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Lovecraft_Style_Color_1.png
+2025-11-29 10:44:28.473 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Lovecraft_Style_Color_2.png
+2025-11-29 10:44:28.473 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Steampunk_Style_Color_1.png
+2025-11-29 10:44:28.474 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Backs/Back_Steampunk_Style_Color_2.png
+2025-11-29 10:44:28.474 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Daemon_Style_Color_1.png
+2025-11-29 10:44:28.474 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Daemon_Style_Color_2.png
+2025-11-29 10:44:28.475 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Elf_Style_Color_1.png
+2025-11-29 10:44:28.475 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Elf_Style_Color_2.png
+2025-11-29 10:44:28.475 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Halloween_Style_Color_1.png
+2025-11-29 10:44:28.475 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Halloween_Style_Color_2.png
+2025-11-29 10:44:28.477 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Lovecraft_Style_Color_1.png
+2025-11-29 10:44:28.477 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Lovecraft_Style_Color_2.png
+2025-11-29 10:44:28.477 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Steampunk_Style_Color_1.png
+2025-11-29 10:44:28.477 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Card_Backs/Card_Back_Steampunk_Style_Color_2.png
+2025-11-29 10:44:28.477 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Daemon_Style_Color_1.png
+2025-11-29 10:44:28.477 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Daemon_Style_Color_2.png
+2025-11-29 10:44:28.478 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Elf_Style_Color_1.png
+2025-11-29 10:44:28.478 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Elf_Style_Color_2.png
+2025-11-29 10:44:28.478 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Halloween_Style_Color_1.png
+2025-11-29 10:44:28.478 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Halloween_Style_Color_2.png
+2025-11-29 10:44:28.479 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Lovecraft_Style_Color_1.png
+2025-11-29 10:44:28.479 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Lovecraft_Style_Color_2.png
+2025-11-29 10:44:28.479 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Steampunk_Style_Color_1.png
+2025-11-29 10:44:28.479 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Cards/Card_Steampunk_Style_Color_2.png
+2025-11-29 10:44:28.480 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/Icon_Attack_Color_01.png
+2025-11-29 10:44:28.480 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/Icon_Attack_Color_02.png
+2025-11-29 10:44:28.480 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/Icon_Life_Color_01.png
+2025-11-29 10:44:28.480 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/Icon_Life_Color_02.png
+2025-11-29 10:44:28.480 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/Icon_Mana_Color_01.png
+2025-11-29 10:44:28.480 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/Icon_Mana_Color_02.png
+2025-11-29 10:44:28.482 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/neutral.png
+2025-11-29 10:44:28.482 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/runecraft.png
+2025-11-29 10:44:28.482 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Icons/swordcraft.png
+2025-11-29 10:44:28.482 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Daemon_Color_01.png
+2025-11-29 10:44:28.482 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Daemon_Color_02.png
+2025-11-29 10:44:28.482 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Elf_Color_01.png
+2025-11-29 10:44:28.483 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Elf_Color_02.png
+2025-11-29 10:44:28.483 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Halloween_Color_01.png
+2025-11-29 10:44:28.484 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Halloween_Color_02.png
+2025-11-29 10:44:28.484 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Lovecraft_Color_01.png
+2025-11-29 10:44:28.484 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Lovecraft_Color_02.png
+2025-11-29 10:44:28.484 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Steampunk_Color_01.png
+2025-11-29 10:44:28.485 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Jewels/Jewel_Steampunk_Color_02.png
+2025-11-29 10:44:28.485 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/PSD_Files/Card_Steampunk_Style.psd
+2025-11-29 10:44:28.485 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/PSD_Files/Cards_Card_Lovecraft_Style.psd
+2025-11-29 10:44:28.485 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/PSD_Files/Cards_Daemon_Style.psd
+2025-11-29 10:44:28.485 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/PSD_Files/Cards_Elf_Style.psd
+2025-11-29 10:44:28.486 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/PSD_Files/Cards_Halloween_Style.psd
+2025-11-29 10:44:28.486 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/TCG_Card _Fantasy_Design.unity
+2025-11-29 10:44:28.486 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Daemon_Style_Color_1.png
+2025-11-29 10:44:28.486 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Daemon_Style_Color_2.png
+2025-11-29 10:44:28.487 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Elf_Style_Color_1.png
+2025-11-29 10:44:28.487 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Elf_Style_Color_2.png
+2025-11-29 10:44:28.487 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Halloween_Style_Color_1.png
+2025-11-29 10:44:28.488 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Halloween_Style_Color_2.png
+2025-11-29 10:44:28.488 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Lovecraft_Style_Color_1.png
+2025-11-29 10:44:28.488 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Lovecraft_Style_Color_2.png
+2025-11-29 10:44:28.488 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Steampunk_Style_Color_1.png
+2025-11-29 10:44:28.489 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card _Fantasy_Design/Webbings/Webbing_Steampunk_Style_Color_2.png
+2025-11-29 10:44:28.489 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Back_Back.png
+2025-11-29 10:44:28.489 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Back_Frame.png
+2025-11-29 10:44:28.489 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Back_Logo_1.png
+2025-11-29 10:44:28.489 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Back_Logo_2.png
+2025-11-29 10:44:28.491 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Back_Logo_Back.png
+2025-11-29 10:44:28.491 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Back.png
+2025-11-29 10:44:28.491 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Back_Logo.png
+2025-11-29 10:44:28.491 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Back_Place_For_Picture.png
+2025-11-29 10:44:28.491 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Corner.png
+2025-11-29 10:44:28.491 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Frame.png
+2025-11-29 10:44:28.492 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Logo_2.png
+2025-11-29 10:44:28.492 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Number.png
+2025-11-29 10:44:28.492 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Animal_Card/Animal_Card_Face_Tape.png
+2025-11-29 10:44:28.492 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic Card Back_Back.png
+2025-11-29 10:44:28.492 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic Card Back_Frame.png
+2025-11-29 10:44:28.492 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic Card Back_Logo_1.png
+2025-11-29 10:44:28.494 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic Card Back_Logo_2.png
+2025-11-29 10:44:28.494 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic Card Back_Logo_Back.png
+2025-11-29 10:44:28.494 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Back.png
+2025-11-29 10:44:28.494 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Back_Logo.png
+2025-11-29 10:44:28.494 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Corner.png
+2025-11-29 10:44:28.494 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Frame.png
+2025-11-29 10:44:28.495 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Logo_1.png
+2025-11-29 10:44:28.495 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Logo_2.png
+2025-11-29 10:44:28.495 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Number.png
+2025-11-29 10:44:28.496 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Place_For_Picture.png
+2025-11-29 10:44:28.496 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Magic_Card/Magic_Card_Face_Tape.png
+2025-11-29 10:44:28.497 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Back_Back.png
+2025-11-29 10:44:28.497 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Back_Frame.png
+2025-11-29 10:44:28.497 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Back_Logo_1.png
+2025-11-29 10:44:28.497 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Back_Logo_2.png
+2025-11-29 10:44:28.497 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Back.png
+2025-11-29 10:44:28.497 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Back_Logo.png
+2025-11-29 10:44:28.498 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Corner.png
+2025-11-29 10:44:28.498 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Frame.png
+2025-11-29 10:44:28.498 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Logo_1.png
+2025-11-29 10:44:28.498 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Logo_2.png
+2025-11-29 10:44:28.498 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Logo_Back.png
+2025-11-29 10:44:28.498 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Number.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Place_For_Picture.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Nautical_Map/Nautical_Card_Face_Tape.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Back_Back.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Back_Frame.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Back_Logo_1.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Back_Logo_2.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Back_Logo_Back.png
+2025-11-29 10:44:28.500 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Back.png
+2025-11-29 10:44:28.502 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Corner.png
+2025-11-29 10:44:28.502 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Frame.png
+2025-11-29 10:44:28.502 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Icon_Logo.png
+2025-11-29 10:44:28.503 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Logo_1.png
+2025-11-29 10:44:28.503 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Logo_2.png
+2025-11-29 10:44:28.504 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Number.png
+2025-11-29 10:44:28.504 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Place_For_Picture.png
+2025-11-29 10:44:28.504 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Sci-Fi_Card/Sci-Fi_Card_Face_Tape.png
+2025-11-29 10:44:28.504 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/TCG_Card_Design.psd
+2025-11-29 10:44:28.505 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/TCG_Card_Design.unity
+2025-11-29 10:44:28.505 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Back.png
+2025-11-29 10:44:28.505 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Back_Logo.png
+2025-11-29 10:44:28.505 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Corner.png
+2025-11-29 10:44:28.506 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Frame.png
+2025-11-29 10:44:28.506 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Number.png
+2025-11-29 10:44:28.506 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Place_For_Picture.png
+2025-11-29 10:44:28.506 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Tape.png
+2025-11-29 10:44:28.507 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Tape_Logo_1.png
+2025-11-29 10:44:28.507 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card Face_Tape_Logo_2.png
+2025-11-29 10:44:28.508 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card_Back_Back.png
+2025-11-29 10:44:28.508 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card_Back_Frame.png
+2025-11-29 10:44:28.508 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card_Back_Logo_1.png
+2025-11-29 10:44:28.508 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card_Back_Logo_Back.png
+2025-11-29 10:44:28.508 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/TCG_Card_Design/Warrior_Card/Warrior_Card_Logo_Back_Logo_2.png
+2025-11-29 10:44:28.508 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/ability_btn.png
+2025-11-29 10:44:28.510 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/arena_target_box.png
+2025-11-29 10:44:28.510 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/arena_time_icon.png
+2025-11-29 10:44:28.510 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/arena_turn_box.png
+2025-11-29 10:44:28.511 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/arrow.png
+2025-11-29 10:44:28.511 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/avatar_frame2.png
+2025-11-29 10:44:28.511 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/avatar_killed.png
+2025-11-29 10:44:28.511 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/blue_box.png
+2025-11-29 10:44:28.511 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/board_slot.png
+2025-11-29 10:44:28.511 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/board_slot_long.png
+2025-11-29 10:44:28.512 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/button_accept.png
+2025-11-29 10:44:28.513 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/button_endturn.png
+2025-11-29 10:44:28.513 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/button_large.png
+2025-11-29 10:44:28.513 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/button_reject.png
+2025-11-29 10:44:28.513 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/button_square.png
+2025-11-29 10:44:28.513 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/button_thin.png
+2025-11-29 10:44:28.513 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/collection_team_icon.png
+2025-11-29 10:44:28.514 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/dice_icon.png
+2025-11-29 10:44:28.514 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/equip_glow.png
+2025-11-29 10:44:28.514 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/exit.png
+2025-11-29 10:44:28.514 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/frame_circle_gold.png
+2025-11-29 10:44:28.515 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/frame_circle_silver.png
+2025-11-29 10:44:28.516 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/frame_gold.png
+2025-11-29 10:44:28.516 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/frame_silver.png
+2025-11-29 10:44:28.516 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/friend_offline.png
+2025-11-29 10:44:28.516 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/friend_online.png
+2025-11-29 10:44:28.516 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/gradient.png
+2025-11-29 10:44:28.517 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/hourglass.png
+2025-11-29 10:44:28.517 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/icon_accept.png
+2025-11-29 10:44:28.517 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/icon_reject.png
+2025-11-29 10:44:28.517 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/input_field.png
+2025-11-29 10:44:28.517 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/input_field_long.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/input_field_white.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/input_search.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/internet-icon.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/level_box.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/loading.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/logout.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/mana_empty.png
+2025-11-29 10:44:28.518 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/mana_full.png
+2025-11-29 10:44:28.520 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/menu.png
+2025-11-29 10:44:28.520 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/observe.png
+2025-11-29 10:44:28.520 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/orange_box.png
+2025-11-29 10:44:28.520 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/quantity_bar.png
+2025-11-29 10:44:28.520 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/quantity_bar2.png
+2025-11-29 10:44:28.521 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/red_box.png
+2025-11-29 10:44:28.521 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/red_box2.png
+2025-11-29 10:44:28.521 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/scroll_bg.png
+2025-11-29 10:44:28.521 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/scroll_fill.png
+2025-11-29 10:44:28.521 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/settings.png
+2025-11-29 10:44:28.521 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/Square.png
+2025-11-29 10:44:28.521 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/sword.png
+2025-11-29 10:44:28.522 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/tchat.png
+2025-11-29 10:44:28.522 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/toggle_box.png
+2025-11-29 10:44:28.523 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/ui_frame.png
+2025-11-29 10:44:28.523 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/win_glow.png
+2025-11-29 10:44:28.523 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/win_particles.png
+2025-11-29 10:44:28.523 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/win_text.png
+2025-11-29 10:44:28.523 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/win_vs.png
+2025-11-29 10:44:28.523 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/x_large.png
+2025-11-29 10:44:28.524 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/交换.png
+2025-11-29 10:44:28.524 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/菜单 (1).png
+2025-11-29 10:44:28.524 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Sprites/UI/菜单.png
+2025-11-29 10:44:28.528 [INFO] TaskGetBuildMap It takes 0 seconds in total
+2025-11-29 10:44:28.528 [INFO] --------------------------------------------->TaskBuilding<--------------------------------------------
+2025-11-29 10:44:47.885 [INFO] UnityEngine build success!
+2025-11-29 10:44:47.885 [INFO] TaskBuilding It takes 19 seconds in total
+2025-11-29 10:44:47.885 [INFO] --------------------------------------------->TaskVerifyBuildResult<--------------------------------------------
+2025-11-29 10:44:47.888 [INFO] Build results verify success!
+2025-11-29 10:44:47.888 [INFO] TaskVerifyBuildResult It takes 0 seconds in total
+2025-11-29 10:44:47.888 [INFO] --------------------------------------------->TaskEncryption<--------------------------------------------
+2025-11-29 10:44:47.888 [INFO] TaskEncryption It takes 0 seconds in total
+2025-11-29 10:44:47.889 [INFO] --------------------------------------------->TaskUpdateBundleInfo<--------------------------------------------
+2025-11-29 10:44:48.225 [INFO] TaskUpdateBundleInfo It takes 0 seconds in total
+2025-11-29 10:44:48.225 [INFO] --------------------------------------------->TaskCreateManifest<--------------------------------------------
+2025-11-29 10:44:48.237 [INFO] Create package manifest file: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage/2025-11-17-656/DefaultPackage_2025-11-17-656.json
+2025-11-29 10:44:48.262 [INFO] Create package manifest file: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage/2025-11-17-656/DefaultPackage_2025-11-17-656.bytes
+2025-11-29 10:44:48.263 [INFO] Create package manifest hash file: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage/2025-11-17-656/DefaultPackage_2025-11-17-656.hash
+2025-11-29 10:44:48.264 [INFO] Create package manifest version file: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage/2025-11-17-656/DefaultPackage.version
+2025-11-29 10:44:48.266 [INFO] TaskCreateManifest It takes 0 seconds in total
+2025-11-29 10:44:48.266 [INFO] --------------------------------------------->TaskCreateReport<--------------------------------------------
+2025-11-29 10:44:48.293 [INFO] Create build report file: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage/2025-11-17-656/DefaultPackage_2025-11-17-656.report
+2025-11-29 10:44:48.293 [INFO] TaskCreateReport It takes 0 seconds in total
+2025-11-29 10:44:48.293 [INFO] --------------------------------------------->TaskCreatePackage<--------------------------------------------
+2025-11-29 10:44:48.294 [INFO] Start making patch package: D:/UnityProject/Shadowverse/Bundles/StandaloneWindows64/DefaultPackage/2025-11-17-656
+2025-11-29 10:44:48.322 [INFO] TaskCreatePackage It takes 0 seconds in total
+2025-11-29 10:44:48.323 [INFO] --------------------------------------------->TaskCopyBuildinFiles<--------------------------------------------
+2025-11-29 10:44:48.973 [INFO] Buildin files copy complete: D:/UnityProject/Shadowverse/Assets/StreamingAssets/yoo/DefaultPackage
+2025-11-29 10:44:48.973 [INFO] TaskCopyBuildinFiles It takes 0 seconds in total
+2025-11-29 10:44:48.973 [INFO] --------------------------------------------->TaskCreateCatalog<--------------------------------------------
+2025-11-29 10:44:49.379 [INFO] TaskCreateCatalog It takes 0 seconds in total
+2025-11-29 10:44:49.379 [INFO] Total build process time: 19 seconds
+2025-11-29 10:44:49.380 [INFO] Resource pipeline build success

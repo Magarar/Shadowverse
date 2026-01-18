@@ -1,0 +1,2482 @@
+{
+    "FileVersion": "2.3.1",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2025-11-17-656",
+    "PackageNote": "2025/11/29 10:44:27",
+    "AssetList": [
+        {
+            "Address": "AddArticle",
+            "AssetPath": "Assets/Resources/AbilityData/AddArticle.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4,
+                12,
+                13
+            ]
+        },
+        {
+            "Address": "AddExtraMana",
+            "AssetPath": "Assets/Resources/AbilityData/AddExtraMana.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "choice_of_mighty_light",
+            "AssetPath": "Assets/Resources/AbilityData/choice/choice_of_mighty_light.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "CommonEvolve",
+            "AssetPath": "Assets/Resources/AbilityData/CommonEvolve.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4,
+                8
+            ]
+        },
+        {
+            "Address": "add_attack_hp",
+            "AssetPath": "Assets/Resources/AbilityData/none/add_attack_hp.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "summon_ironKnight_mightyLight",
+            "AssetPath": "Assets/Resources/AbilityData/none/summon_ironKnight_mightyLight.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "summon_knight_mightyLight",
+            "AssetPath": "Assets/Resources/AbilityData/none/summon_knight_mightyLight.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "抽两张皇家随从牌",
+            "AssetPath": "Assets/Resources/AbilityData/none/抽两张皇家随从牌.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4,
+                10
+            ]
+        },
+        {
+            "Address": "【进化时】召唤1个『大海虎鲸』。",
+            "AssetPath": "Assets/Resources/AbilityData/onEvolve/【进化时】召唤1个『大海虎鲸』。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "evolve_add_hp_attack",
+            "AssetPath": "Assets/Resources/AbilityData/onEvolve/evolve_add_hp_attack.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "evolve_flyings_quirrel",
+            "AssetPath": "Assets/Resources/AbilityData/onEvolve/evolve_flyings_quirrel.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "evolve_summon_knight",
+            "AssetPath": "Assets/Resources/AbilityData/onEvolve/evolve_summon_knight.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "evolve_summon_knight_2",
+            "AssetPath": "Assets/Resources/AbilityData/onEvolve/evolve_summon_knight_2.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "本随从进化时，使自己的能量点最大值+1。",
+            "AssetPath": "Assets/Resources/AbilityData/onEvolve/本随从进化时，使自己的能量点最大值+1。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "dead_summon_knight",
+            "AssetPath": "Assets/Resources/AbilityData/onkilled/dead_summon_knight.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "死亡时，抽取一张卡牌",
+            "AssetPath": "Assets/Resources/AbilityData/onkilled/死亡时，抽取一张卡牌.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "自己的其他随从进入战场时，使其+1+0且获得【突进】和【守护】。",
+            "AssetPath": "Assets/Resources/AbilityData/onOtherCardPlay/自己的其他随从进入战场时，使其+1+0且获得【突进】和【守护】。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4,
+                8
+            ]
+        },
+        {
+            "Address": "自己的士兵·随从进入战场时，使其获得【守护】。",
+            "AssetPath": "Assets/Resources/AbilityData/onOtherCardPlay/自己的士兵·随从进入战场时，使其获得【守护】。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                8,
+                10
+            ]
+        },
+        {
+            "Address": "自己的士兵·随从进入战场时，使其获得【突进】。",
+            "AssetPath": "Assets/Resources/AbilityData/onOtherCardPlay/自己的士兵·随从进入战场时，使其获得【突进】。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4,
+                10
+            ]
+        },
+        {
+            "Address": "自己的士兵·随从进入战场时，本随从+1+0。",
+            "AssetPath": "Assets/Resources/AbilityData/onOtherCardPlay/自己的士兵·随从进入战场时，本随从+1+0。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4,
+                10
+            ]
+        },
+        {
+            "Address": "自己的海洋·随从进入战场时，使其获得【守护】。",
+            "AssetPath": "Assets/Resources/AbilityData/onOtherCardPlay/自己的海洋·随从进入战场时，使其获得【守护】。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "rasti_ability",
+            "AssetPath": "Assets/Resources/AbilityData/onSuperEvolve/rasti_ability.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "使自己的战场上的其他所有皇家护卫·随从获得【屏障】。",
+            "AssetPath": "Assets/Resources/AbilityData/onSuperEvolve/使自己的战场上的其他所有皇家护卫·随从获得【屏障】。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                8,
+                10
+            ]
+        },
+        {
+            "Address": "【入场曲】使自己的牌组中的所有卡牌的费用变为一半。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】使自己的牌组中的所有卡牌的费用变为一半。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "【入场曲】召唤1个『大海虎鲸』。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】召唤1个『大海虎鲸』。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "【入场曲】召唤1个『骑士』。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】召唤1个『骑士』。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "【入场曲】召唤2个『大海虎鲸』。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】召唤2个『大海虎鲸』。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "【入场曲】召唤3个『铁甲骑士』。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】召唤3个『铁甲骑士』。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "【入场曲】召唤4个『铁甲骑士』。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】召唤4个『铁甲骑士』。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "【入场曲】若为【觉醒】，则回复自己的主战者4点生命值。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】若为【觉醒】，则回复自己的主战者4点生命值。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "【入场曲】若为【觉醒】，则抽取1张卡牌。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】若为【觉醒】，则抽取1张卡牌。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "【入场曲】若为【觉醒】，则本随从进化。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】若为【觉醒】，则本随从进化。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "【入场曲】若为超进化已解禁的回合，则本随从获得【毁灭】。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】若为超进化已解禁的回合，则本随从获得【毁灭】。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                8
+            ]
+        },
+        {
+            "Address": "【入场曲】选择对手的战场上的1个随从，对其造成1点伤害。",
+            "AssetPath": "Assets/Resources/AbilityData/play/【入场曲】选择对手的战场上的1个随从，对其造成1点伤害。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "使自己的能量点最大值+1。",
+            "AssetPath": "Assets/Resources/AbilityData/play/使自己的能量点最大值+1。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "召唤1个『大海虎鲸』",
+            "AssetPath": "Assets/Resources/AbilityData/play/召唤1个『大海虎鲸』.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "打出时回复自己3点能量点。",
+            "AssetPath": "Assets/Resources/AbilityData/play/打出时回复自己3点能量点。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "打出时抽两张牌",
+            "AssetPath": "Assets/Resources/AbilityData/play/打出时抽两张牌.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "打出时抽两张皇家随从牌",
+            "AssetPath": "Assets/Resources/AbilityData/play/打出时抽两张皇家随从牌.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4,
+                10
+            ]
+        },
+        {
+            "Address": "潜行",
+            "AssetPath": "Assets/Resources/AbilityData/play/潜行.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                8
+            ]
+        },
+        {
+            "Address": "疾驰",
+            "AssetPath": "Assets/Resources/AbilityData/play/疾驰.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "突进",
+            "AssetPath": "Assets/Resources/AbilityData/play/突进.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "若为【觉醒】，则回复自己的主战者2点生命值。",
+            "AssetPath": "Assets/Resources/AbilityData/play/若为【觉醒】，则回复自己的主战者2点生命值。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "若为【觉醒】，则抽取1张『虎鲸的呼声』。",
+            "AssetPath": "Assets/Resources/AbilityData/play/若为【觉醒】，则抽取1张『虎鲸的呼声』。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "若为【觉醒】，则改为召唤2个。",
+            "AssetPath": "Assets/Resources/AbilityData/play/若为【觉醒】，则改为召唤2个。.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "选择自己的1张手牌，使其返回牌组,并抽取两张皇家随从牌",
+            "AssetPath": "Assets/Resources/AbilityData/play/选择自己的1张手牌，使其返回牌组,并抽取两张皇家随从牌.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4,
+                10
+            ]
+        },
+        {
+            "Address": "RemoveExtraMana",
+            "AssetPath": "Assets/Resources/AbilityData/RemoveExtraMana.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "SuperEvolve",
+            "AssetPath": "Assets/Resources/AbilityData/SuperEvolve.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ability"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                4,
+                8
+            ]
+        },
+        {
+            "Address": "dragon",
+            "AssetPath": "Assets/Resources/Card/Hero/dragon.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                7,
+                9,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "royal",
+            "AssetPath": "Assets/Resources/Card/Hero/royal.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                7,
+                9,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "再临之创世龙",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/再临之创世龙.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "御风者·叶花",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/御风者·叶花.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "海洋骑手",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/海洋骑手.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "烈焰火蜥蜴",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/烈焰火蜥蜴.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "白鳞的使者",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/白鳞的使者.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "绚丽凤凰·小凤",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/绚丽凤凰·小凤.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "荣弦的天宫·龙芙",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/荣弦的天宫·龙芙.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "荣弦的奏乐",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/荣弦的奏乐.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                9,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "虎鲸的呼声",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/虎鲸的呼声.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "身经百战的鱼人",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/身经百战的鱼人.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "飞跃的银白幼龙",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/飞跃的银白幼龙.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "龙之启示",
+            "AssetPath": "Assets/Resources/Card/Standard/Dragon/龙之启示.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                4,
+                6,
+                7,
+                9,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "人马骑士",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/人马骑士.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "勇猛的鲁米那斯枪士",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/勇猛的鲁米那斯枪士.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "卓越的鲁米那斯法师",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/卓越的鲁米那斯法师.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "女仆的礼仪",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/女仆的礼仪.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "异端武士",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/异端武士.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "忍者鼯鼠",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/忍者鼯鼠.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "战斗商贩",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/战斗商贩.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "煌刃勇者·阿玛利亚",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/煌刃勇者·阿玛利亚.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "王室御用车夫",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/王室御用车夫.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "王断的天宫",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/王断的天宫.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "王断的威光",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/王断的威光.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "白银骑士团团长·艾蜜莉亚",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/白银骑士团团长·艾蜜莉亚.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "统率的鲁米那斯骑士",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/统率的鲁米那斯骑士.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "须臾剑士",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/须臾剑士.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                4,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "魔煌的诡谲者·拉斯提",
+            "AssetPath": "Assets/Resources/Card/Standard/Royal/魔煌的诡谲者·拉斯提.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "TestCard",
+            "AssetPath": "Assets/Resources/Card/Test/TestCard.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                7,
+                9,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "大海虎鲸",
+            "AssetPath": "Assets/Resources/Card/Token/大海虎鲸.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                4,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "铁甲骑士",
+            "AssetPath": "Assets/Resources/Card/Token/铁甲骑士.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "骑士",
+            "AssetPath": "Assets/Resources/Card/Token/骑士.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "card"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "is_ally",
+            "AssetPath": "Assets/Resources/Conditions/is_ally.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_character",
+            "AssetPath": "Assets/Resources/Conditions/is_character.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_empty",
+            "AssetPath": "Assets/Resources/Conditions/is_empty.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_enemy",
+            "AssetPath": "Assets/Resources/Conditions/is_enemy.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_in_deck",
+            "AssetPath": "Assets/Resources/Conditions/is_in_deck.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_in_hand",
+            "AssetPath": "Assets/Resources/Conditions/is_in_hand.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_not_self",
+            "AssetPath": "Assets/Resources/Conditions/is_not_self.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_owner",
+            "AssetPath": "Assets/Resources/Conditions/is_owner.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_rasti",
+            "AssetPath": "Assets/Resources/Conditions/is_rasti.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                0,
+                1,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "is_rising",
+            "AssetPath": "Assets/Resources/Conditions/is_rising.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_royal",
+            "AssetPath": "Assets/Resources/Conditions/is_royal.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                10
+            ]
+        },
+        {
+            "Address": "is_slot_next_to",
+            "AssetPath": "Assets/Resources/Conditions/is_slot_next_to.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_slot_same_p",
+            "AssetPath": "Assets/Resources/Conditions/is_slot_same_p.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_soilder",
+            "AssetPath": "Assets/Resources/Conditions/is_soilder.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                10
+            ]
+        },
+        {
+            "Address": "is_super_evolve_turn",
+            "AssetPath": "Assets/Resources/Conditions/is_super_evolve_turn.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "is_whale",
+            "AssetPath": "Assets/Resources/Conditions/is_whale.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "conditions"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                0,
+                1,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "TestDeck_1",
+            "AssetPath": "Assets/Resources/Deck/TestDeck_1.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "deck"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                0,
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "add_attack",
+            "AssetPath": "Assets/Resources/Effect/add_attack.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "add_fast",
+            "AssetPath": "Assets/Resources/Effect/add_fast.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                0
+            ]
+        },
+        {
+            "Address": "add_hp",
+            "AssetPath": "Assets/Resources/Effect/add_hp.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "add_mana",
+            "AssetPath": "Assets/Resources/Effect/add_mana.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "add_maxMana",
+            "AssetPath": "Assets/Resources/Effect/add_maxMana.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "auto_evolve",
+            "AssetPath": "Assets/Resources/Effect/auto_evolve.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "draw_card",
+            "AssetPath": "Assets/Resources/Effect/draw_card.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "draw_royal",
+            "AssetPath": "Assets/Resources/Effect/draw_royal.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                10
+            ]
+        },
+        {
+            "Address": "effect_damage",
+            "AssetPath": "Assets/Resources/Effect/effect_damage.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "EffectAddAttack",
+            "AssetPath": "Assets/Resources/Effect/EffectAddAttack.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "EffectAddHP",
+            "AssetPath": "Assets/Resources/Effect/EffectAddHP.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "EffectAddTestArticle",
+            "AssetPath": "Assets/Resources/Effect/EffectAddTestArticle.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "Address": "EffectCharge",
+            "AssetPath": "Assets/Resources/Effect/EffectCharge.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "EffectFast",
+            "AssetPath": "Assets/Resources/Effect/EffectFast.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "GainExtraMana",
+            "AssetPath": "Assets/Resources/Effect/GainExtraMana.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "half_mana",
+            "AssetPath": "Assets/Resources/Effect/half_mana.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "send_to_deck",
+            "AssetPath": "Assets/Resources/Effect/send_to_deck.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "send_to_hand",
+            "AssetPath": "Assets/Resources/Effect/send_to_hand.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "summon_flyings_quirrel",
+            "AssetPath": "Assets/Resources/Effect/summon_flyings_quirrel.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                0,
+                1,
+                2,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "summon_iron_knight",
+            "AssetPath": "Assets/Resources/Effect/summon_iron_knight.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                1,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "summon_knight",
+            "AssetPath": "Assets/Resources/Effect/summon_knight.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                1,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "summon_whale",
+            "AssetPath": "Assets/Resources/Effect/summon_whale.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "effect"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                0,
+                1,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "Address": "filter_random_1",
+            "AssetPath": "Assets/Resources/Filter/filter_random_1.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "filter"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "filter_random_2",
+            "AssetPath": "Assets/Resources/Filter/filter_random_2.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "filter"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "filter_random_3",
+            "AssetPath": "Assets/Resources/Filter/filter_random_3.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "filter"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "filter_random_4",
+            "AssetPath": "Assets/Resources/Filter/filter_random_4.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "filter"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "standard",
+            "AssetPath": "Assets/Resources/Pack/standard.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "pack"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                7,
+                12
+            ]
+        },
+        {
+            "Address": "1-brone",
+            "AssetPath": "Assets/Resources/Rarity/1-brone.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "rarity"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "2-sliver",
+            "AssetPath": "Assets/Resources/Rarity/2-sliver.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "rarity"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "3-gold",
+            "AssetPath": "Assets/Resources/Rarity/3-gold.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "rarity"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "4-mythic",
+            "AssetPath": "Assets/Resources/Rarity/4-mythic.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "rarity"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "CommonEvolveStatus",
+            "AssetPath": "Assets/Resources/Status/CommonEvolveStatus.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "status"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "DeathTouch",
+            "AssetPath": "Assets/Resources/Status/DeathTouch.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "status"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Shell",
+            "AssetPath": "Assets/Resources/Status/Shell.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "status"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Stealth",
+            "AssetPath": "Assets/Resources/Status/Stealth.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "status"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "SuperEvolveStatus",
+            "AssetPath": "Assets/Resources/Status/SuperEvolveStatus.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "status"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Taunt",
+            "AssetPath": "Assets/Resources/Status/Taunt.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "status"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Dragon",
+            "AssetPath": "Assets/Resources/Team/Dragon.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "team"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "Royal",
+            "AssetPath": "Assets/Resources/Team/Royal.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "team"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "Test",
+            "AssetPath": "Assets/Resources/Team/Test.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "team"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "士兵",
+            "AssetPath": "Assets/Resources/Trait/士兵.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "trait"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "海洋",
+            "AssetPath": "Assets/Resources/Trait/海洋.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "trait"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "皇家护卫",
+            "AssetPath": "Assets/Resources/Trait/皇家护卫.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "trait"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "鲁米那斯",
+            "AssetPath": "Assets/Resources/Trait/鲁米那斯.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "trait"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "龙族",
+            "AssetPath": "Assets/Resources/Trait/龙族.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "trait"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "brone",
+            "AssetPath": "Assets/Resources/Variants/brone.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "variants"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "gold",
+            "AssetPath": "Assets/Resources/Variants/gold.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "variants"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "mythic",
+            "AssetPath": "Assets/Resources/Variants/mythic.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "variants"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "silver",
+            "AssetPath": "Assets/Resources/Variants/silver.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "variants"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                12
+            ]
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "defaultpackage_assets_resources_abilitydata.bundle",
+            "UnityCRC": 2104278162,
+            "FileHash": "e6fe0fb0a44e69d80a2cecda37f03c94",
+            "FileCRC": "a12ccfb1",
+            "FileSize": 7558,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect"
+            ],
+            "DependBundleIDs": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_card.bundle",
+            "UnityCRC": 3017043453,
+            "FileHash": "9afe33815a5d0abd5023b2297a83c308",
+            "FileCRC": "4de9c894",
+            "FileSize": 9293,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect"
+            ],
+            "DependBundleIDs": [
+                0,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_conditions.bundle",
+            "UnityCRC": 709169020,
+            "FileHash": "a9e206d7d096c6897b3b367e583bbcde",
+            "FileCRC": "ab196782",
+            "FileSize": 3640,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect"
+            ],
+            "DependBundleIDs": [
+                0,
+                1,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_deck.bundle",
+            "UnityCRC": 270482232,
+            "FileHash": "00ecaeabd4c4692fc78f84cf621228a3",
+            "FileCRC": "17399f1a",
+            "FileSize": 2067,
+            "Encrypted": false,
+            "Tags": [
+                "deck"
+            ],
+            "DependBundleIDs": [
+                0,
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_effect.bundle",
+            "UnityCRC": 3526854665,
+            "FileHash": "89c257336386089c130de5bfbaef2924",
+            "FileCRC": "9add7ec8",
+            "FileSize": 4387,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect"
+            ],
+            "DependBundleIDs": [
+                0,
+                1,
+                2,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_filter.bundle",
+            "UnityCRC": 3807602157,
+            "FileHash": "dc6ba64d769fae233f801913da72dd5a",
+            "FileCRC": "e48a59c9",
+            "FileSize": 1947,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect",
+                "filter"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_pack.bundle",
+            "UnityCRC": 2272307195,
+            "FileHash": "47c2251a5bb37f9c2abaf64936cf3922",
+            "FileCRC": "33f028c8",
+            "FileSize": 2553,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect",
+                "pack"
+            ],
+            "DependBundleIDs": [
+                7,
+                12
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_rarity.bundle",
+            "UnityCRC": 4017068176,
+            "FileHash": "9252871e665c125a538d7bf0b214633a",
+            "FileCRC": "689031d1",
+            "FileSize": 2269,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect",
+                "pack",
+                "rarity"
+            ],
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_status.bundle",
+            "UnityCRC": 2297682412,
+            "FileHash": "6e5c63c857d05cbdf1daffb88fef3073",
+            "FileCRC": "4dcf9039",
+            "FileSize": 2345,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "effect",
+                "status"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_team.bundle",
+            "UnityCRC": 4286354916,
+            "FileHash": "ae2f8dbb9b923a2d72ed8221dd6caa8f",
+            "FileCRC": "36720bc2",
+            "FileSize": 2236,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect",
+                "team"
+            ],
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_trait.bundle",
+            "UnityCRC": 3350003489,
+            "FileHash": "a97b3edca10e5a431f3e30bae35a8edf",
+            "FileCRC": "80cef994",
+            "FileSize": 2163,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect",
+                "trait"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_resources_variants.bundle",
+            "UnityCRC": 431449960,
+            "FileHash": "61fc7d0fd7e5d2729bb698a66e3b7570",
+            "FileCRC": "5a016716",
+            "FileSize": 2435,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect",
+                "variants"
+            ],
+            "DependBundleIDs": [
+                12
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_sprites.bundle",
+            "UnityCRC": 3770158058,
+            "FileHash": "86bdf1be89957f3b6416f4aca9181543",
+            "FileCRC": "a9377b4f",
+            "FileSize": 36325208,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "card",
+                "conditions",
+                "deck",
+                "effect",
+                "pack",
+                "rarity",
+                "team",
+                "variants"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_resources_article.bundle",
+            "UnityCRC": 2085869773,
+            "FileHash": "799c905d73f7d0059585a96a28123102",
+            "FileCRC": "e42b19cf",
+            "FileSize": 2283,
+            "Encrypted": false,
+            "Tags": [
+                "ability",
+                "effect"
+            ],
+            "DependBundleIDs": [
+                12
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+repository "Shadowverse@tj_wechat_os_qy0_hfofpjshkh0y01wpnwjra@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

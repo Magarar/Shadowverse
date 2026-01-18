@@ -1,0 +1,43 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Conditions.ConditionCardData" preserve="all" />
+    <type fullname="Conditions.ConditionCardPile" preserve="all" />
+    <type fullname="Conditions.ConditionCardType" preserve="all" />
+    <type fullname="Conditions.ConditionEvolveTurn" preserve="all" />
+    <type fullname="Conditions.ConditionOwner" preserve="all" />
+    <type fullname="Conditions.ConditionRising" preserve="all" />
+    <type fullname="Conditions.ConditionSelf" preserve="all" />
+    <type fullname="Conditions.ConditionSlotEmpty" preserve="all" />
+    <type fullname="Conditions.ConditionSlotRange" preserve="all" />
+    <type fullname="Conditions.FilterRandom" preserve="all" />
+    <type fullname="Data.AbilityData" preserve="all" />
+    <type fullname="Data.ArticleData" preserve="all" />
+    <type fullname="Data.CardData" preserve="all" />
+    <type fullname="Data.DeckData" preserve="all" />
+    <type fullname="Data.PackData" preserve="all" />
+    <type fullname="Data.RarityData" preserve="all" />
+    <type fullname="Data.StatusData" preserve="all" />
+    <type fullname="Data.TeamData" preserve="all" />
+    <type fullname="Data.TraitData" preserve="all" />
+    <type fullname="Data.VariantData" preserve="all" />
+    <type fullname="Effects.EffectAddAbility" preserve="all" />
+    <type fullname="Effects.EffectAddArticle" preserve="all" />
+    <type fullname="Effects.EffectAddExtraMana" preserve="all" />
+    <type fullname="Effects.EffectAddStat" preserve="all" />
+    <type fullname="Effects.EffectCharge" preserve="all" />
+    <type fullname="Effects.EffectDamage" preserve="all" />
+    <type fullname="Effects.EffectDraw" preserve="all" />
+    <type fullname="Effects.EffectDrawWithTrait" preserve="all" />
+    <type fullname="Effects.EffectEvolve" preserve="all" />
+    <type fullname="Effects.EffectHalfMana" preserve="all" />
+    <type fullname="Effects.EffectMana" preserve="all" />
+    <type fullname="Effects.EffectSendPile" preserve="all" />
+    <type fullname="Effects.EffectSummon" preserve="all" />
+    <type fullname="Data.PackRarity" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+  </assembly>
+</linker>
